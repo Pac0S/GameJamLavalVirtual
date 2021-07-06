@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.leaptestproject-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "LeapTestProject-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}

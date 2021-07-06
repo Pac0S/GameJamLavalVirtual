@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LeapTestProject",
+			"Path": "C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Source\\LeapTestProject.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LeapTestProjectEditor",
+			"Path": "C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Source\\LeapTestProjectEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
