@@ -1,0 +1,11 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Source\\LeapTestProject\\LeapTestProject.Build.cs",
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Plugins\\LeapMotion\\Source\\BodyState\\BodyState.Build.cs",
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Plugins\\LeapMotion\\Source\\LeapMotion\\LeapMotion.Build.cs",
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Plugins\\LeapMotion\\Source\\LeapMotionEditor\\LeapMotionEditor.Build.cs",
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Source\\LeapTestProject.Target.cs",
+		"C:\\Users\\HP Zbook17 G6\\Documents\\GitHub\\GameJamLavalVirtual\\LeapTestProject\\Source\\LeapTestProjectEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

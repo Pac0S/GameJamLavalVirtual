@@ -1,94 +1,105 @@
-﻿Log file open, 07/06/21 00:40:28
+﻿Log file open, 07/06/21 02:54:29
 LogInit: LLM is enabled
 LogInit: LLM CsvWriter: off TraceWriter: off
 LogInit: Display: Running engine for game: LeapTestProject
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 11.064635
+LogStats: Stats thread started at 0.378112
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
 LogPluginManager: Mounting plugin MeshPainting
 LogPluginManager: Mounting plugin XGEController
 LogPluginManager: Mounting plugin Paper2D
 LogPluginManager: Mounting plugin AISupport
-LogPluginManager: Mounting plugin EnvironmentQueryEditor
-LogPluginManager: Mounting plugin LightPropagationVolume
-LogPluginManager: Mounting plugin CameraShakePreviewer
 LogPluginManager: Mounting plugin AnimationSharing
 LogPluginManager: Mounting plugin CLionSourceCodeAccess
 LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
-LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
 LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
 LogPluginManager: Mounting plugin PlasticSourceControl
-LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
 LogPluginManager: Mounting plugin RiderSourceCodeAccess
 LogPluginManager: Mounting plugin SubversionSourceControl
 LogPluginManager: Mounting plugin UObjectPlugin
-LogPluginManager: Mounting plugin GitSourceControl
 LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
 LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
-LogPluginManager: Mounting plugin DatasmithContent
-LogPluginManager: Mounting plugin VariantManagerContent
-LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
 LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
 LogPluginManager: Mounting plugin AlembicImporter
-LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin BackChannel
-LogPluginManager: Mounting plugin ChaosCloth
-LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin AutomationUtils
 LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
 LogPluginManager: Mounting plugin ChaosSolverPlugin
 LogPluginManager: Mounting plugin ChaosNiagara
 LogPluginManager: Mounting plugin CharacterAI
 LogPluginManager: Mounting plugin GeometryCache
-LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin GeometryProcessing
-LogPluginManager: Mounting plugin LuminPlatformFeatures
-LogPluginManager: Mounting plugin MagicLeap
-LogPluginManager: Mounting plugin MagicLeapLightEstimation
-LogPluginManager: Mounting plugin MagicLeapMedia
-LogPluginManager: Mounting plugin MagicLeapPassableWorld
-LogPluginManager: Mounting plugin XCodeSourceCodeAccess
-LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
 LogPluginManager: Mounting plugin MotoSynth
 LogPluginManager: Mounting plugin PlanarCut
 LogPluginManager: Mounting plugin PlatformCrypto
 LogPluginManager: Mounting plugin ProxyLODPlugin
 LogPluginManager: Mounting plugin SkeletalReduction
-LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
 LogPluginManager: Mounting plugin ActorSequence
 LogPluginManager: Mounting plugin LevelSequenceEditor
-LogPluginManager: Mounting plugin UdpMessaging
-LogPluginManager: Mounting plugin TcpMessaging
 LogPluginManager: Mounting plugin MatineeToLevelSequence
 LogPluginManager: Mounting plugin TemplateSequence
-LogPluginManager: Mounting plugin AvfMedia
-LogPluginManager: Mounting plugin ImgMedia
-LogPluginManager: Mounting plugin MediaCompositing
-LogPluginManager: Mounting plugin MediaPlayerEditor
-LogPluginManager: Mounting plugin WebMMedia
-LogPluginManager: Mounting plugin WmfMedia
 LogPluginManager: Mounting plugin OnlineSubsystem
 LogPluginManager: Mounting plugin OnlineSubsystemNull
-LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
 LogPluginManager: Mounting plugin ActorLayerUtilities
 LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
-LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
 LogPluginManager: Mounting plugin AppleImageUtils
 LogPluginManager: Mounting plugin AppleMoviePlayer
 LogPluginManager: Mounting plugin ArchVisCharacter
 LogPluginManager: Mounting plugin AssetTags
-LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin AudioCapture
-LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin AudioSynesthesia
 LogPluginManager: Mounting plugin ChunkDownloader
 LogPluginManager: Mounting plugin CustomMeshComponent
-LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
 LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
 LogPluginManager: Mounting plugin GoogleCloudMessaging
 LogPluginManager: Mounting plugin GooglePAD
 LogPluginManager: Mounting plugin IOSDeviceProfileSelector
@@ -102,29 +113,18 @@ LogPluginManager: Mounting plugin PropertyAccessEditor
 LogPluginManager: Mounting plugin RuntimePhysXCooking
 LogPluginManager: Mounting plugin SignificanceManager
 LogPluginManager: Mounting plugin SoundFields
-LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin Synthesis
 LogPluginManager: Mounting plugin WebMMoviePlayer
 LogPluginManager: Mounting plugin WindowsMoviePlayer
-LogPluginManager: Mounting plugin CryptoKeys
-LogPluginManager: Mounting plugin CurveEditorTools
-LogPluginManager: Mounting plugin DataValidation
-LogPluginManager: Mounting plugin FacialAnimation
-LogPluginManager: Mounting plugin GameplayTagsEditor
-LogPluginManager: Mounting plugin GeometryMode
-LogPluginManager: Mounting plugin MacGraphicsSwitching
-LogPluginManager: Mounting plugin MaterialAnalyzer
-LogPluginManager: Mounting plugin MobileLauncherProfileWizard
-LogPluginManager: Mounting plugin PluginBrowser
-LogPluginManager: Mounting plugin SpeedTreeImporter
-LogPluginManager: Mounting plugin OnlineSubsystemIOS
-LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
-LogPluginManager: Mounting plugin OculusVR
-LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ScreenshotTools
 LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
 LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
 LogPluginManager: Mounting plugin LeapMotion
-LogXGEController: Cleaning working directory: C:/Users/pacos/AppData/Local/Temp/UnrealXGEWorkingDir/
+LogXGEController: Cleaning working directory: C:/Users/HP Zbook17 G6/AppData/Local/Temp/UnrealXGEWorkingDir/
 LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
 LogInit: Using libcurl 7.55.1-DEV
 LogInit:  - built for x86_64-pc-win32
@@ -147,19 +147,17 @@ LogInit:  - BufferSize = 65536
 LogOnline: OSS: Creating online subsystem instance for: NULL
 LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
 LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
-LogOculusPluginWrapper: OculusPlugin initialized successfully
-LogHMD: Failed initializing OVRPlugin 1.51.0
-LogInit: Build: ++UE4+Release-4.26-CL-15228867
-LogInit: Engine Version: 4.26.1-15228867+++UE4+Release-4.26
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
 LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
 LogInit: Net CL: 14830424
-LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
-LogInit: Compiled (64-bit): Jan 28 2021 07:07:34
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.26
 LogInit: Command Line:  -skipcompile
-LogInit: Base Directory: D:/Programmes/UE_4.26/Engine/Binaries/Win64/
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
 LogInit: Allocator: TBB
 LogInit: Installed Engine Build: 1
 LogDevObjectVersion: Number of dev versions registered: 29
@@ -193,7 +191,7 @@ LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
 LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
-LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Documents/MTI3D/Laval Virtual/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -211,6 +209,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 [2021.07.05-22.40.40:214][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.07.05-22.40.40:215][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.07.05-22.40.40:227][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Documents/MTI3D/Laval Virtual/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
@@ -18621,3 +18620,1452 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.06-02.44.35:714][102]LogD3D11RHI: CleanupD3DDevice
 [2021.07.06-02.44.37:086][102]LogExit: Exiting.
 [2021.07.06-02.44.37:125][102]Log file closed, 07/06/21 04:44:37
+=======
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.07.06-00.54.31:151][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.07.06-00.54.31:152][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.07.06-00.54.31:153][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.07.06-00.54.31:154][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.07.06-00.54.31:155][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.06-00.54.31:156][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:156][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.06-00.54.31:157][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:157][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:210][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:210][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.06-00.54.31:210][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.06-00.54.31:210][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:210][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.06-00.54.31:210][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.06-00.54.31:211][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.06-00.54.31:212][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.06-00.54.31:213][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.06-00.54.31:214][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.06-00.54.31:215][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.06-00.54.31:215][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.06-00.54.31:215][  0]LogHAL: Display: Platform has ~ 32 GB [34166124544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.06-00.54.31:215][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.06-00.54.31:215][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.06-00.54.31:215][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.06-00.54.31:216][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.06-00.54.31:217][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.06-00.54.31:218][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.06-00.54.31:219][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.06-00.54.31:220][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.06-00.54.31:220][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.06-00.54.31:220][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.06-00.54.31:220][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.54.31:220][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Editor.ini]
+[2021.07.06-00.54.31:220][  0]LogInit: Computer: DESKTOP-K4RNKHS
+[2021.07.06-00.54.31:220][  0]LogInit: User: HPZbook17G6
+[2021.07.06-00.54.31:220][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.07.06-00.54.31:220][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.06-00.54.31:221][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.07.06-00.54.31:221][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.06-00.54.31:221][  0]LogMemory: Process Physical Memory: 133.09 MB used, 133.09 MB peak
+[2021.07.06-00.54.31:222][  0]LogMemory: Process Virtual Memory: 112.07 MB used, 112.07 MB peak
+[2021.07.06-00.54.31:222][  0]LogMemory: Physical Memory: 10869.10 MB used,  21714.25 MB free, 32583.36 MB total
+[2021.07.06-00.54.31:222][  0]LogMemory: Virtual Memory: 134198960.00 MB used,  18769.96 MB free, 134217728.00 MB total
+[2021.07.06-00.54.31:254][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.06-00.54.31:473][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.06-00.54.31:475][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.06-00.54.31:475][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.07.06-00.54.31:486][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.06-00.54.31:696][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.06-00.54.31:737][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.06-00.54.31:784][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.06-00.54.31:784][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.06-00.54.35:125][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.06-00.54.35:125][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.06-00.54.35:125][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.06-00.54.35:307][  0]LogD3D11RHI:    0. 'NVIDIA Quadro RTX 5000' (Feature Level 11_0)
+[2021.07.06-00.54.35:307][  0]LogD3D11RHI:       16170/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
+[2021.07.06-00.54.35:363][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.07.06-00.54.35:363][  0]LogD3D11RHI:       128/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.06-00.54.35:370][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.06-00.54.35:370][  0]LogD3D11RHI:       0/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.06-00.54.35:413][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.07.06-00.54.35:413][  0]LogD3D11RHI:       128/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.06-00.54.35:413][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.06-00.54.35:419][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.06-00.54.35:419][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb5 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.06-00.54.35:419][  0]LogWindows: EnumDisplayDevices:
+[2021.07.06-00.54.35:420][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.07.06-00.54.35:421][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.07.06-00.54.35:422][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.07.06-00.54.35:423][  0]LogWindows:    3. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.54.35:424][  0]LogWindows:    4. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.54.35:424][  0]LogWindows:    5. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.54.35:425][  0]LogWindows:    6. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.54.35:426][  0]LogWindows:    7. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.54.35:426][  0]LogWindows:    8. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.54.35:427][  0]LogWindows:    9. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.54.35:428][  0]LogWindows:    10. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:428][  0]LogWindows:    11. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:429][  0]LogWindows:    12. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:429][  0]LogWindows:    13. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:430][  0]LogWindows:    14. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:431][  0]LogWindows:    15. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:432][  0]LogWindows:    16. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:433][  0]LogWindows:    17. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:434][  0]LogWindows:    18. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:435][  0]LogWindows:    19. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:436][  0]LogWindows:    20. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:437][  0]LogWindows:    21. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:438][  0]LogWindows:    22. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.54.35:438][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.07.06-00.54.35:438][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro RTX 5000
+[2021.07.06-00.54.35:438][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.06-00.54.35:438][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.06-00.54.35:439][  0]LogRHI: Texture pool is 11319 MB (70% of 16170 MB)
+[2021.07.06-00.54.35:552][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.06-00.54.35:552][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.06-00.54.35:552][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.06-00.54.35:610][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.06-00.54.35:615][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.06-00.54.35:975][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.06-00.54.36:005][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.06-00.54.36:006][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.06-00.54.36:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.06-00.54.36:042][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.06-00.54.36:059][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.06-00.54.36:075][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.06-00.54.36:095][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.06-00.54.36:116][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.06-00.54.36:131][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.06-00.54.36:145][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.06-00.54.36:158][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.06-00.54.36:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.06-00.54.36:201][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.06-00.54.36:213][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.06-00.54.36:227][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.06-00.54.36:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.06-00.54.36:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.06-00.54.36:275][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.06-00.54.36:276][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.06-00.54.36:289][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.06-00.54.36:304][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.06-00.54.36:317][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.06-00.54.36:332][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.06-00.54.36:332][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.06-00.54.36:347][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.06-00.54.36:469][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.06-00.54.36:469][  0]LogShaderCompilers: Guid format shader working directory is -36 characters bigger than the processId version (../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Intermediate/Shaders/WorkingDirectory/4960/).
+[2021.07.06-00.54.36:470][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP Zbook17 G6/AppData/Local/Temp/UnrealShaderWorkingDir/F42E79D54A6C12D679963F95EC8A15AB/'.
+[2021.07.06-00.54.36:470][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.06-00.54.36:470][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.06-00.54.37:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.06-00.54.37:534][  0]LogDerivedDataCache: Loaded boot cache 0.06s 98MB C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.06-00.54.37:534][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.06-00.54.37:534][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.06-00.54.37:534][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.06-00.54.37:535][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.06-00.54.37:535][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.06-00.54.37:555][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.06-00.54.37:555][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.06-00.54.37:556][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.06-00.54.37:592][  0]LogDerivedDataCache: Speed tests for C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.04 seconds
+[2021.07.06-00.54.37:592][  0]LogDerivedDataCache: Display: Performance to C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.24ms. RandomReadSpeed=128.68MBs, RandomWriteSpeed=36.20MBs. Assigned SpeedClass 'Local'
+[2021.07.06-00.54.37:595][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.06-00.54.37:596][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.06-00.54.37:596][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.06-00.54.37:691][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.06-00.54.37:693][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.06-00.54.37:747][  0]LogAssetRegistry: FAssetRegistry took 0.0046 seconds to start up
+[2021.07.06-00.54.38:027][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.06-00.54.38:027][  0]LogInit: Active device profile: [00000171E4CE5D00][00000171E35A1C00 49] Windows
+[2021.07.06-00.54.38:027][  0]LogInit: Profiles: [00000171E4CE5D00][00000171E35A1C00 49] Windows, [00000171E4CEE500][00000171E35A40C0 49] WindowsNoEditor, [00000171E4CE4D00][00000171E35A8240 49] WindowsServer, [00000171E4CEF100][00000171E35AC3C0 49] WindowsClient, [00000171E4CE6A00][00000171E35B0540 49] IOS, [00000171E4CEFF00][00000171E35B46C0 49] iPadAir, [00000171E4CE6D00][00000171E35B8840 49] iPadAir2, [00000171E4CA3000][00000171E35C0B00 49] IPadPro, [00000171E4CA3100][00000171E35BCB40 49] iPadAir3, [00000171E4CE5500][00000171E35C4CC0 49] iPadAir4, [00000171E4CA2800][00000171E35C8E40 49] iPadMini2, [00000171E4CE7200][00000171E35CCFC0 49] iPadMini3, [00000171E4CA1600][00000171E35D1140 49] iPadMini4, [00000171E4CE5200][00000171E35D52C0 49] iPadMini5, [00000171E4CE2900][00000171E35DD580 49] iPhone6, [00000171E4CE2A00][00000171E35D95C0 49] iPodTouch6, [00000171E4CA3600][00000171E359D840 49] iPhone7, [00000171E4CA3700][00000171E35E1880 49] iPodTouch7, [00000171E4CE2700][00000171E35E59C0 49] iPhone5S, [00000171E4CA0100][00000171E35E9B00 49] iPhone6Plus, [00000171E4CE1400][00000171E35EDC40 49] iPhone6S, [00000171E4CA0700][00000171E35F4100 49] iPhone6SPlus, [00000171E4CE0200][00000171E35F8280 49] iPhone7Plus, [00000171E4CA2600][00000171E35FC400 49] iPhoneSE, [00000171E4CE3000][00000171E3600580 49] iPhone8, [00000171E4CA3F00][00000171E3604700 49] iPhone8Plus, [00000171E4CE1C00][00000171E3608880 49] iPhoneX, [00000171E4CA2300][00000171E360CA00 49] iPhoneXS, [00000171E4CE0400][00000171E3610B80 49] iPhoneXSMax, [00000171E4CA3C00][00000171E3614D00 49] iPhoneXR, [00000171E4CE3E00][00000171E3618E80 49] iPhone11, [00000171E4CA2000][00000171E361D000 49] iPhone11Pro, [00000171E4CE3500][00000171E3621180 49] iPhone11ProMax, [00000171E4CA2C00][00000171E3625300 49] iPhoneSE2, [00000171E4CE3700][00000171E3629480 49] iPhone12Mini, [00000171E4CA0B00][00000171E362D600 49] iPhone12, [00000171E4CE2300][00000171E3631780 49] iPhone12Pro, [00000171E4CA3400][00000171E35F18C0 49] iPhone12ProMax, [00000171E4CA2900][00000171E3635A00 49] iPadPro105, [00000171E4CEDB00][00000171E3639B40 49] iPadPro129, [00000171E4CA0F00][00000171E363DC80 49] iPadPro97, [00000171E4CEFA00][00000171E3644140 49] iPadPro2_129, [00000171E4CA3900][00000171E36482C0 49] iPad5, [00000171E4CEFD00][00000171E364C440 49] iPad6, [00000171E4CA2D00][00000171E36505C0 49] iPad7, [00000171E4CEE600][00000171E3654740 49] iPad8, [00000171E4CECC00][00000171E36588C0 49] iPadPro11, [00000171E4CE3D00][00000171E365CA40 49] iPadPro2_11, [00000171E4CED100][00000171E3660BC0 49] iPadPro3_129, [00000171E4CE0B00][00000171E3664D40 49] iPadPro4_129, [00000171E4CEE300][00000171E3668EC0 49] AppleTV, [00000171E4CE1000][00000171E366D040 49] AppleTV4K, [00000171E4CEC600][00000171E36711C0 49] TVOS, [00000171E4CE3F00][00000171E3675340 49] Mac, [00000171E4CEC200][00000171E36794C0 49] MacClient, [00000171E4CA0800][00000171E367D640 49] MacNoEditor, [00000171E4CEEA00][00000171E36817C0 49] MacServer, [00000171E4CA0200][00000171E3685940 49] Linux, [00000171E4CED600][00000171E3641A80 49] LinuxAArch64, [00000171E4CA2A00][00000171E3689BC0 49] LinuxNoEditor, [00000171E4CEDC00][00000171E368DD00 49] LinuxAArch64NoEditor, [00000171E4CA3E00][00000171E36941C0 49] LinuxClient, [00000171E4CECB00][00000171E3698340 49] LinuxAArch64Client, [00000171E4CA3B00][00000171E369C4C0 49] LinuxServer, [00000171E4CEC800][00000171E36A0640 49] LinuxAArch64Server, [00000171E4CA3500][00000171E36A47C0 49] Android, [00000171E4CEE900][00000171E36A8940 49] Android_Low, [00000171E4CA2700][00000171E36ACAC0 49] Android_Mid, [00000171E4CEF000][00000171E36B0C40 49] Android_High, [00000171E4CA2F00][00000171E36B4DC0 49] Android_Default, [00000171E4CEDA00][00000171E36B8F40 49] Android_Adreno4xx, [00000171E4CA1200][00000171E36BD0C0 49] Android_Adreno5xx_Low, [00000171E4CECD00][00000171E36C1240 49] Android_Adreno5xx, [00000171E4CA0D00][00000171E36C53C0 49] Android_Adreno6xx, [00000171E4CEC700][00000171E36C9540 49] Android_Adreno6xx_Vulkan, [00000171E4CA0300][00000171E36CD6C0 49] Android_Mali_T6xx, [00000171E4CEC500][00000171E36D1840 49] Android_Mali_T7xx, [00000171E4CA1400][00000171E37979C0 49] Android_Mali_T8xx, [00000171E4CEDF00][00000171E3691B00 49] Android_Mali_G71, [00000171E4CA1900][00000171E379BC40 49] Android_Mali_G72, [00000171E4CEC100][00000171E37A60C0 49] Android_Mali_G72_Vulkan, [00000171E4CA2400][00000171E37AE240 49] Android_Mali_G76, [00000171E4CEDD00][00000171E37BE3C0 49] Android_Mali_G76_Vulkan, [00000171E4CA0A00][00000171E37C2540 49] Android_Mali_G77, [00000171E4CEFE00][00000171E37C66C0 49] Android_Mali_G77_Vulkan, [00000171E4CA2B00][00000171E37CA840 49] Android_Vulkan_SM5, [00000171E4CECF00][00000171E37E69C0 49] Android_PowerVR_G6xxx, [00000171E4CA1800][00000171E37EAB40 49] Android_PowerVR_GT7xxx, [00000171E4CED300][00000171E37EECC0 49] Android_PowerVR_GE8xxx, [00000171E4CA1E00][00000171E3812E40 49] Android_PowerVR_GM9xxx, [00000171E4CEF700][00000171E3816FC0 49] Android_PowerVR_GM9xxx_Vulkan, [00000171E4CA1000][00000171E381B140 49] Android_TegraK1, [00000171E4CEE800][00000171E381F2C0 49] Android_Unknown_Vulkan, [00000171E4CE2200][00000171E3823440 49] Lumin, [00000171E4CE4200][00000171E38275C0 49] Lumin_Desktop, [00000171E4CE3300][00000171E382B740 49] HoloLens, 
+[2021.07.06-00.54.38:186][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.06-00.54.38:186][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.06-00.54.38:187][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.06-00.54.38:187][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.06-00.54.38:187][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.06-00.54.38:223][  0]LogNetVersion: LeapTestProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2153292125)
+[2021.07.06-00.54.38:831][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.06-00.54.38:921][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.088433 seconds
+[2021.07.06-00.54.38:926][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.06-00.54.38:926][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.06-00.54.38:927][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.06-00.54.39:547][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.06-00.54.39:556][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.06-00.54.39:746][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.39:746][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.39:750][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.39:756][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.39:771][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.39:781][  0]LogUProjectInfo: Found projects:
+[2021.07.06-00.54.40:160][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.06-00.54.40:191][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.06-00.54.40:191][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.06-00.54.40:257][  0]LogCollectionManager: Loaded 0 collections in 0.001549 seconds
+[2021.07.06-00.54.40:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Collections/' took 0.00s
+[2021.07.06-00.54.40:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Developers/HPZbook17G6/Collections/' took 0.00s
+[2021.07.06-00.54.40:268][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Collections/' took 0.00s
+[2021.07.06-00.54.40:304][  0]LogOcInput: OculusInput pre-init called
+[2021.07.06-00.54.40:329][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.06-00.54.40:329][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.06-00.54.40:361][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2021.07.06-00.54.40:361][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2021.07.06-00.54.40:361][  0]LeapMotionLog: Leap Plugin started v3.7
+[2021.07.06-00.54.40:427][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.07.06-00.54.40:427][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.07.06-00.54.40:428][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.07.06-00.54.40:428][  0]LogClass: Display: 3 Uninitialized script struct members found
+[2021.07.06-00.54.40:428][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.07.06-00.54.40:428][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.07.06-00.54.40:428][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.07.06-00.54.40:429][  0]LogEngine: Initializing Engine...
+[2021.07.06-00.54.40:430][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2021.07.06-00.54.40:432][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.06-00.54.40:568][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.06-00.54.40:580][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.06-00.54.40:585][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.06-00.54.40:591][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.06-00.54.40:591][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.06-00.54.40:591][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-00.54.40:592][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-00.54.40:592][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-00.54.40:592][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-00.54.40:593][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-00.54.40:649][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-00.54.40:649][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-00.54.40:729][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek USB2.0 Audio)
+[2021.07.06-00.54.40:731][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-00.54.40:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-00.54.40:737][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-00.54.40:738][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.06-00.54.40:739][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-00.54.40:739][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-00.54.40:741][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-00.54.40:742][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-00.54.40:742][  0]LogInit: FAudioDevice initialized.
+[2021.07.06-00.54.40:742][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.06-00.54.40:742][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.06-00.54.40:802][  0]LogDerivedDataCache: Saved boot cache 0.06s 98MB C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.06-00.54.40:805][  0]LogInit: Texture streaming: Enabled
+[2021.07.06-00.54.40:824][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.06-00.54.40:831][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.06-00.54.40:831][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.06-00.54.40:836][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.06-00.54.40:888][  0]LogInit: Transaction tracking system initialized
+[2021.07.06-00.54.40:920][  0]BlueprintLog: New page: Editor Load
+[2021.07.06-00.54.41:037][  0]LocalizationService: Localization service is disabled
+[2021.07.06-00.54.41:122][  0]TimingProfiler: Initialize
+[2021.07.06-00.54.41:122][  0]TimingProfiler: OnSessionChanged
+[2021.07.06-00.54.41:122][  0]LoadingProfiler: Initialize
+[2021.07.06-00.54.41:123][  0]LoadingProfiler: OnSessionChanged
+[2021.07.06-00.54.41:123][  0]NetworkingProfiler: Initialize
+[2021.07.06-00.54.41:123][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.06-00.54.41:123][  0]MemoryProfiler: Initialize
+[2021.07.06-00.54.41:123][  0]MemoryProfiler: OnSessionChanged
+[2021.07.06-00.54.41:494][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.06-00.54.41:494][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.06-00.54.41:765][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/' took 0.01s
+[2021.07.06-00.54.42:112][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.06-00.54.42:118][  0]SourceControl: Source control is disabled
+[2021.07.06-00.54.42:118][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.436
+[2021.07.06-00.54.42:118][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.06-00.54.42:120][  0]LightingResults: New page: Lighting Build
+[2021.07.06-00.54.42:122][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.54.42:122][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.54.42:122][  0]MapCheck: New page: Map Check
+[2021.07.06-00.54.42:122][  0]LightingResults: New page: Lighting Build
+[2021.07.06-00.54.42:130][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.06-00.54.42:220][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.06-00.54.42:222][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.07.06-00.54.42:224][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.07.06-00.54.42:232][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.06-00.54.42:238][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.06-00.54.42:239][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.06-00.54.42:239][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,46ms to complete.
+[2021.07.06-00.54.42:239][  0]LogFileHelpers: Loading map 'Template_Default' took 0.121
+[2021.07.06-00.54.42:243][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.560
+[2021.07.06-00.54.42:426][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.54.42:432][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.54.42:438][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.54.42:445][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.54.42:461][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0089 seconds. Added 3616 classes and 869 folders.
+[2021.07.06-00.54.42:465][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.54.42:468][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.54.42:468][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.54.42:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.07.06-00.54.42:471][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.06-00.54.42:471][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:471][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.06-00.54.42:471][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.06-00.54.42:472][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.06-00.54.42:472][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.06-00.54.42:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.06-00.54.42:475][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.54.42:475][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:475][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.54.42:475][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.07.06-00.54.42:478][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.06-00.54.42:478][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:478][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.06-00.54.42:478][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.07.06-00.54.42:479][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.06-00.54.42:479][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:479][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.06-00.54.42:480][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2021.07.06-00.54.42:481][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.06-00.54.42:482][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:482][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.06-00.54.42:482][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.07.06-00.54.42:483][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.06-00.54.42:483][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:483][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.06-00.54.42:483][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2021.07.06-00.54.42:485][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.54.42:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.54.42:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.07.06-00.54.42:487][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.06-00.54.42:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.06-00.54.42:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2021.07.06-00.54.42:489][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.06-00.54.42:489][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:489][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.06-00.54.42:489][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.07.06-00.54.42:491][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.54.42:491][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:491][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.54.42:491][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.07.06-00.54.42:493][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.54.42:493][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:493][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.54.42:493][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.07.06-00.54.42:495][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.54.42:495][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:495][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.54.42:495][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2021.07.06-00.54.42:497][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.06-00.54.42:497][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:497][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.06-00.54.42:497][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.07.06-00.54.42:498][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.54.42:499][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:499][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.54.42:499][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.07.06-00.54.42:500][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.06-00.54.42:500][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:500][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.06-00.54.42:500][  0]LogPakFile: OnPakFileMounted2Time == 0.000064
+[2021.07.06-00.54.42:502][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.54.42:502][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:502][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.54.42:502][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.07.06-00.54.42:504][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.54.42:504][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:504][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.54.42:504][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.07.06-00.54.42:506][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.54.42:506][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:506][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.54.42:506][  0]LogPakFile: OnPakFileMounted2Time == 0.000073
+[2021.07.06-00.54.42:507][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.54.42:507][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:507][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.54.42:507][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2021.07.06-00.54.42:509][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.54.42:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.54.42:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000079
+[2021.07.06-00.54.42:511][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.06-00.54.42:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.06-00.54.42:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2021.07.06-00.54.42:513][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.54.42:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.54.42:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000086
+[2021.07.06-00.54.42:514][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.54.42:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.54.42:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000089
+[2021.07.06-00.54.42:516][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.06-00.54.42:516][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.54.42:516][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.06-00.54.42:516][  0]LogPakFile: OnPakFileMounted2Time == 0.000091
+[2021.07.06-00.54.42:612][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.54.42:613][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.07.06-00.54.42:685][  0]LogSlate: Took 0.000465 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.06-00.54.42:689][  0]LogSlate: Took 0.001127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.06-00.54.42:694][  0]LogSlate: Took 0.000464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.06-00.54.42:839][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.07.06-00.54.42:991][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.54.42:991][  0]LogLoad: (Engine Initialization) Total time: 14.31 seconds
+[2021.07.06-00.54.42:991][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.06-00.54.42:991][  0]LogInit: First time updating LLM stats...
+[2021.07.06-00.54.43:013][  0]LeapMotionLog: ServiceMessageLoop started.
+[2021.07.06-00.54.43:013][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2021.07.06-00.54.43:013][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2021.07.06-00.54.43:013][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2021.07.06-00.54.43:013][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.54.43:013][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.54.43:014][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.54.43:031][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.07.06-00.54.43:032][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [4960][application.generated.ue.leaptestproject-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.07.06-00.54.43:032][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.54.43:033][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.07.06-00.54.43:033][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.07.06-00.54.43:033][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:034][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.07.06-00.54.43:035][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.07.06-00.54.43:036][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:037][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.07.06-00.54.43:038][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.54.43:039][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.54.43:040][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.54.43:057][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.07.06-00.54.43:057][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [4960][application.generated.ue.leaptestproject-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.07.06-00.54.43:058][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.54.43:058][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.07.06-00.54.43:058][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:059][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:060][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.07.06-00.54.43:061][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.07.06-00.54.43:062][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.54.43:086][  0]LogAssetRegistry: Asset discovery search completed in 5.3402 seconds
+[2021.07.06-00.54.43:087][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.07.06-00.54.43:087][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.06-00.54.43:109][  1]LeapMotionLog: LeapService: OnConnect.
+[2021.07.06-00.54.43:114][  2]LeapMotionLog: LeapServiceLog: Tracking optimized for head-mounted device
+[2021.07.06-00.54.43:201][  2]LogSlate: Took 0.000507 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.06-00.54.43:207][  3]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2021.07.06-00.54.47:610][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.07.06-00.54.47:615][256]LogSlate: Took 0.000563 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.06-00.54.47:724][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\BP_MotionController.uasset: [Compiler] OnComponentHit (ControllerMesh)  does not have a valid matching component!
+[2021.07.06-00.54.47:776][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'MotionControllerThumbRight_X' for  Get MotionControllerThumbRight_X
+[2021.07.06-00.54.47:777][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'MotionControllerThumbRight_Y' for  Get MotionControllerThumbRight_Y
+[2021.07.06-00.54.47:777][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_Y' for  Get MotionControllerThumbLeft_Y
+[2021.07.06-00.54.47:777][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] Get Input Axis references unknown Axis 'MotionControllerThumbLeft_X' for  Get MotionControllerThumbLeft_X
+[2021.07.06-00.54.47:778][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] InputAction Event references unknown Action 'TeleportRight' for  InputAction TeleportRight
+[2021.07.06-00.54.47:779][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] InputAction Event references unknown Action 'TeleportLeft' for  InputAction TeleportLeft
+[2021.07.06-00.54.47:779][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] InputAction Event references unknown Action 'GrabRight' for  InputAction GrabRight
+[2021.07.06-00.54.47:779][256]LogBlueprint: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\VirtualRealityBP\Blueprints\MotionControllerPawn.uasset: [Compiler] InputAction Event references unknown Action 'GrabLeft' for  InputAction GrabLeft
+[2021.07.06-00.54.47:855][256]LogAssetEditorSubsystem: Opening Asset editor for World /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap
+[2021.07.06-00.54.47:856][256]LightingResults: New page: Lighting Build
+[2021.07.06-00.54.47:856][256]LoadErrors: New page: Loading map: MotionControllerMap.umap
+[2021.07.06-00.54.47:856][256]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.54.47:857][256]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.54.47:857][256]MapCheck: New page: Map Check
+[2021.07.06-00.54.47:857][256]LightingResults: New page: Lighting Build
+[2021.07.06-00.54.47:861][256]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-00.54.47:865][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2021.07.06-00.54.47:866][256]LogAudio: Display: Audio Device (ID: 1) registered with world 'MotionControllerMap'.
+[2021.07.06-00.54.47:869][256]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.06-00.54.47:870][256]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.07.06-00.54.47:877][256]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.07.06-00.54.47:886][256]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.06-00.54.47:887][256]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,318ms to complete.
+[2021.07.06-00.54.47:887][256]LogFileHelpers: Loading map 'MotionControllerMap' took 0.031
+[2021.07.06-00.54.51:294][456]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-00.54.51:294][456]PIE: New page: PIE session: MotionControllerMap (6 juil. 2021 à 04:54:51)
+[2021.07.06-00.54.51:296][456]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.07.06-00.54.51:298][456]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.07.06-00.54.51:299][456]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.07.06-00.54.51:316][456]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017020s)
+[2021.07.06-00.54.51:317][456]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.07.06-00.54.51:317][456]LogPlayLevel: PIE: World Init took: (0.001063s)
+[2021.07.06-00.54.51:317][456]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.018557s)
+[2021.07.06-00.54.51:322][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.06-00.54.51:323][456]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-00.54.51:323][456]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-00.54.51:324][456]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-00.54.51:324][456]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-00.54.51:324][456]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-00.54.51:324][456]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-00.54.51:336][456]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-00.54.51:337][456]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-00.54.51:373][456]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek USB2.0 Audio)
+[2021.07.06-00.54.51:373][456]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-00.54.51:373][456]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-00.54.51:373][456]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-00.54.51:374][456]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.06-00.54.51:374][456]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-00.54.51:374][456]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-00.54.51:389][456]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-00.54.51:389][456]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-00.54.51:389][456]LogInit: FAudioDevice initialized.
+[2021.07.06-00.54.51:389][456]LogAudio: Display: Audio Device (ID: 2) registered with world 'MotionControllerMap'.
+[2021.07.06-00.54.51:399][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.54.51:557][456]LogLinker: Warning: Asset '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Plugins/LeapMotion/Content/BodyState/BSLowPolyLeftAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.07.06-00.54.51:570][456]LogLinker: Warning: Asset '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Plugins/LeapMotion/Content/BodyState/BSLowPolyRightAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.07.06-00.54.51:650][456]LogLoad: Game class is 'LeapGameMode_C'
+[2021.07.06-00.54.51:652][456]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.07.06-02.54.51
+[2021.07.06-00.54.51:652][456]LogWorld: Bringing up level for play took: 0.001626
+[2021.07.06-00.54.51:653][456]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.07.06-00.54.51:657][456]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.07.06-00.54.51:663][456]PIE: Server logged in
+[2021.07.06-00.54.51:664][456]PIE: Play in editor total start time 0,372 seconds.
+[2021.07.06-00.54.51:676][457]LogRenderer: Warning: Resizing VR buffer to 5208 by 2544
+[2021.07.06-00.54.51:676][457]LogRenderer: Reallocating scene render targets to support 5208x2544 Format 10 NumSamples 1 (Frame:1).
+[2021.07.06-00.55.04:875][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.55.04:876][270]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.07.06-00.55.04:914][270]LogSlate: Window 'LeapTestProject Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2021.07.06-00.55.04:971][270]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.55.04:972][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.55.04:991][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-00.55.04:993][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.55.05:002][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.55.05:004][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.55.05:043][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.06-00.55.05:060][271]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.07.06-00.55.20:043][126]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.06-00.56.00:871][484]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.06-00.56.00:876][484]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.06-00.56.02:115][554]LogTemp: Repeating last play command: VR Preview
+[2021.07.06-00.56.02:124][554]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.06-00.56.02:125][554]PIE: New page: PIE session: MotionControllerMap (6 juil. 2021 à 04:56:02)
+[2021.07.06-00.56.02:125][554]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.07.06-00.56.02:143][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018091s)
+[2021.07.06-00.56.02:144][554]LogAIModule: Creating AISystem for world MotionControllerMap
+[2021.07.06-00.56.02:145][554]LogPlayLevel: PIE: World Init took: (0.001759s)
+[2021.07.06-00.56.02:145][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.020255s)
+[2021.07.06-00.56.02:150][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2021.07.06-00.56.02:152][554]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.07.06-00.56.02:152][554]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-00.56.02:152][554]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-00.56.02:152][554]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-00.56.02:152][554]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-00.56.02:152][554]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-00.56.02:153][554]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-00.56.02:153][554]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-00.56.02:153][554]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-00.56.02:153][554]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-00.56.02:154][554]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-00.56.02:167][554]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-00.56.02:167][554]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-00.56.02:204][554]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek USB2.0 Audio)
+[2021.07.06-00.56.02:204][554]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-00.56.02:204][554]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-00.56.02:205][554]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-00.56.02:205][554]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.06-00.56.02:205][554]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-00.56.02:205][554]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-00.56.02:220][554]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-00.56.02:221][554]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-00.56.02:221][554]LogInit: FAudioDevice initialized.
+[2021.07.06-00.56.02:221][554]LogAudio: Display: Audio Device (ID: 3) registered with world 'MotionControllerMap'.
+[2021.07.06-00.56.02:231][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.56.02:326][554]LogLoad: Game class is 'LeapGameMode_C'
+[2021.07.06-00.56.02:330][554]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2021.07.06-02.56.02
+[2021.07.06-00.56.02:331][554]LogWorld: Bringing up level for play took: 0.003867
+[2021.07.06-00.56.02:332][554]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2021.07.06-00.56.02:340][554]PIE: Server logged in
+[2021.07.06-00.56.02:342][554]PIE: Play in editor total start time 0,22 seconds.
+[2021.07.06-00.56.19:429][643]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.56.19:429][643]LogWorld: BeginTearingDown for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2021.07.06-00.56.19:470][643]LogSlate: Window 'LeapTestProject Preview [NetMode: Standalone]  (64-bit/Windows) SteamVR' being destroyed
+[2021.07.06-00.56.19:522][643]LogWorld: UWorld::CleanupWorld for MotionControllerMap, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.56.19:522][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.56.19:540][643]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.06-00.56.19:542][643]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.56.19:548][643]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-00.56.19:548][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.56.19:550][643]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.56.19:592][643]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.07.06-00.56.19:615][644]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2021.07.06-00.56.23:336][836]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.07.06-00.56.44:415][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.06-00.56.44:419][ 71]LogSlate: Window 'Project Settings' being destroyed
+[2021.07.06-00.56.49:061][339]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2021.07.06-00.56.49:396][339]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.07.06-00.56.50:327][339]LogSlate: Took 0.000565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.07.06-00.56.50:494][339]LogSlate: Took 0.000407 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.07.06-00.56.50:521][340]LogSlate: Took 0.000564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.07.06-00.58.37:724][669]LogSlate: Window 'BP_MotionController' being destroyed
+[2021.07.06-00.58.37:731][669]LogSlate: Window 'BP_MotionController' being destroyed
+[2021.07.06-00.58.37:739][669]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.58.37:739][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.59.02:581][502]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/ExportFBX/raquette.fbx)
+[2021.07.06-00.59.02:621][502]LogFbx: Loading FBX Scene from ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/ExportFBX/raquette.fbx
+[2021.07.06-00.59.02:631][502]LogFbx: FBX Scene Loaded Succesfully
+[2021.07.06-00.59.17:860][502]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.07.06-00.59.17:881][502]LogFbx: Display: Triangulating static mesh Circle
+[2021.07.06-00.59.17:937][502]LogStaticMesh: Building static mesh raquette...
+[2021.07.06-00.59.17:973][502]LogStaticMesh: Built static mesh [0.04s] /Game/Models/raquette.raquette
+[2021.07.06-00.59.17:990][502]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.07.06-00.59.18:889][542]LogSlate: Took 0.001793 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.07.06-00.59.23:091][783]LogSlate: Window 'Message Log' being destroyed
+[2021.07.06-00.59.23:096][783]LogSlate: Window 'Message Log' being destroyed
+[2021.07.06-00.59.24:276][847]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Models/raquette.raquette
+[2021.07.06-00.59.36:183][381]LogSlate: Window 'Save Asset As' being destroyed
+[2021.07.06-00.59.55:943][422]LogSlate: Window 'Message' being destroyed
+[2021.07.06-00.59.55:959][422]Message dialog closed, result: Ok, title: Message, text: WARNING - Deleting a material slot can break the game play blueprint or the game play code. All indexes after the delete slot will change
+[2021.07.06-01.00.14:549][475]LogAssetEditorSubsystem: Opening Asset editor for Material /Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial
+[2021.07.06-01.00.14:552][475]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. 
+[2021.07.06-01.00.14:652][475]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.07.06-01.00.14:734][475]LogMaterial: Display: Missing cached shader map for material WorldGridMaterial, compiling. Is special engine material.
+[2021.07.06-01.00.14:768][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 78
+[2021.07.06-01.00.14:768][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 77
+[2021.07.06-01.00.14:768][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 76
+[2021.07.06-01.00.14:768][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 75
+[2021.07.06-01.00.14:769][475]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 74
+[2021.07.06-01.00.14:769][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 73
+[2021.07.06-01.00.14:769][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2021.07.06-01.00.14:769][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 71
+[2021.07.06-01.00.14:769][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_26, compiling. 
+[2021.07.06-01.00.14:774][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_27, compiling. 
+[2021.07.06-01.00.14:777][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_28, compiling. 
+[2021.07.06-01.00.14:781][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_6, compiling. 
+[2021.07.06-01.00.14:786][475]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_29, compiling. 
+[2021.07.06-01.00.15:646][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 90
+[2021.07.06-01.00.15:681][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 89
+[2021.07.06-01.00.15:681][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 88
+[2021.07.06-01.00.15:681][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 87
+[2021.07.06-01.00.15:836][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 86
+[2021.07.06-01.00.15:939][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 85
+[2021.07.06-01.00.15:976][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 84
+[2021.07.06-01.00.16:010][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 83
+[2021.07.06-01.00.16:028][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 82
+[2021.07.06-01.00.16:131][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 81
+[2021.07.06-01.00.16:217][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 80
+[2021.07.06-01.00.16:234][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 79
+[2021.07.06-01.00.16:302][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 78
+[2021.07.06-01.00.16:355][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 77
+[2021.07.06-01.00.16:373][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 76
+[2021.07.06-01.00.16:408][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 75
+[2021.07.06-01.00.16:545][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 74
+[2021.07.06-01.00.16:616][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 73
+[2021.07.06-01.00.16:655][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 72
+[2021.07.06-01.00.16:698][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 71
+[2021.07.06-01.00.16:765][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 70
+[2021.07.06-01.00.16:816][475]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 69
+[2021.07.06-01.00.16:851][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 68
+[2021.07.06-01.00.16:935][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 67
+[2021.07.06-01.00.17:020][475]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 66
+[2021.07.06-01.00.17:037][475]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 65
+[2021.07.06-01.00.17:108][475]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 64
+[2021.07.06-01.00.17:177][475]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 63
+[2021.07.06-01.00.17:194][475]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 62
+[2021.07.06-01.00.17:210][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 61
+[2021.07.06-01.00.17:210][475]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 60
+[2021.07.06-01.00.17:228][475]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 59
+[2021.07.06-01.00.17:228][475]LogSlate: Window 'Warning: Editing Default Material' being destroyed
+[2021.07.06-01.00.17:595][476]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 58
+[2021.07.06-01.00.17:595][476]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 57
+[2021.07.06-01.00.17:595][476]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 56
+[2021.07.06-01.00.17:595][476]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 55
+[2021.07.06-01.00.17:715][479]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 54
+[2021.07.06-01.00.17:749][480]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 53
+[2021.07.06-01.00.18:006][492]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 52
+[2021.07.06-01.00.18:089][496]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 51
+[2021.07.06-01.00.18:149][499]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 50
+[2021.07.06-01.00.18:275][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 49
+[2021.07.06-01.00.18:295][505]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 48
+[2021.07.06-01.00.18:519][515]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 47
+[2021.07.06-01.00.18:541][516]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 46
+[2021.07.06-01.00.18:564][517]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 45
+[2021.07.06-01.00.18:695][521]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 44
+[2021.07.06-01.00.18:747][522]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 43
+[2021.07.06-01.00.18:924][531]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 42
+[2021.07.06-01.00.19:048][536]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 41
+[2021.07.06-01.00.19:127][539]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 40
+[2021.07.06-01.00.19:470][554]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 39
+[2021.07.06-01.00.19:574][559]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 38
+[2021.07.06-01.00.19:673][563]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 37
+[2021.07.06-01.00.19:841][570]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 36
+[2021.07.06-01.00.19:951][575]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 35
+[2021.07.06-01.00.20:112][583]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 34
+[2021.07.06-01.00.20:168][586]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 33
+[2021.07.06-01.00.20:191][586]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 32
+[2021.07.06-01.00.20:207][586]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-01.00.20:208][586]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-01.00.20:278][587]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.07.06-01.00.20:390][592]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2021.07.06-01.00.20:427][594]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.07.06-01.00.20:533][600]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2021.07.06-01.00.20:709][610]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2021.07.06-01.00.20:776][613]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.07.06-01.00.20:845][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.00.20:968][622]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2021.07.06-01.00.21:006][624]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.00.21:023][625]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.07.06-01.00.21:091][629]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.06-01.00.21:588][658]LogSlate: Window 'raquette' being destroyed
+[2021.07.06-01.00.21:592][658]LogSlate: Window 'raquette' being destroyed
+[2021.07.06-01.00.21:600][658]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-01.00.21:600][658]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-01.00.29:437][111]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.07.06-01.00.29:451][111]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.07.06-01.00.33:371][344]LogContentBrowser: Attempting asset rename: NewMaterial -> Raquette
+[2021.07.06-01.00.33:373][344]LogContentBrowser: End creating deferred item NewMaterial
+[2021.07.06-01.00.35:067][442]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Raquette.Raquette
+[2021.07.06-01.00.35:068][442]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.35:191][442]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.35:197][442]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.35:208][442]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.00.35:208][442]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.00.35:209][442]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.00.36:016][466]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.07.06-01.00.36:683][502]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.07.06-01.00.36:683][502]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.07.06-01.00.36:683][502]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.07.06-01.00.36:683][502]MaterialEditorStats: Texture samplers: 2/16
+[2021.07.06-01.00.43:929][919]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.00.43:935][919]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.00.43:936][919]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.00.43:936][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSample_0, compiling. 
+[2021.07.06-01.00.43:937][919]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.43:938][919]LogMaterial: Warning: [AssetLog] /Engine/Transient.Raquette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.06-01.00.43:938][919]LogMaterial: Display: 	(Node FontSample) Font Sample> Missing input Font
+[2021.07.06-01.00.43:956][919]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionFontSample_0, compiling. 
+[2021.07.06-01.00.43:962][919]MaterialEditorStats: Error: [SM5] (Node FontSample) Font Sample> Missing input Font
+[2021.07.06-01.00.46:552][ 56]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.46:614][ 57]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.00.46:614][ 57]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.00.46:615][ 57]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.00.47:419][ 93]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.07.06-01.00.52:539][388]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.52:545][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.06-01.00.52:547][388]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.00.52:548][388]LogMaterial: Warning: [AssetLog] /Engine/Transient.Raquette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.06-01.00.52:548][388]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.00.52:560][388]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.06-01.00.52:640][391]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.01.26:947][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/Textures/Raquette/raquette_DefaultMaterial_BaseColor.tga)
+[2021.07.06-01.01.26:984][  3]LogTexture: Display: Building textures: raquette_DefaultMaterial_BaseColor (AutoDXT, 2048X2048)
+[2021.07.06-01.01.27:461][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/Textures/Raquette/raquette_DefaultMaterial_Emissive.tga)
+[2021.07.06-01.01.27:515][  3]LogTexture: Display: Building textures: raquette_DefaultMaterial_Emissive (AutoDXT, 2048X2048)
+[2021.07.06-01.01.27:649][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/Textures/Raquette/raquette_DefaultMaterial_Normal.tga)
+[2021.07.06-01.01.27:697][  3]LogTexture: Display: Building textures: raquette_DefaultMaterial_Normal (BC5, 2048X2048)
+[2021.07.06-01.01.27:884][  3]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/Textures/Raquette/raquette_DefaultMaterial_OcclusionRoughnessMetallic.tga)
+[2021.07.06-01.01.27:928][  3]LogTexture: Display: Building textures: raquette_DefaultMaterial_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2021.07.06-01.01.31:711][178]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.07.06-01.01.31:727][178]LogContentBrowser: Creating deferred item: NewFolder
+[2021.07.06-01.01.33:821][299]LogContentBrowser: Attempting asset rename: NewFolder -> raquette
+[2021.07.06-01.01.33:821][299]LogContentBrowser: End creating deferred item NewFolder
+[2021.07.06-01.01.40:514][659]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/raquette_DefaultMaterial_BaseCol496C42E647C056DF2B23A689A5C21E2F.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Textures/raquette/raquette_DefaultMaterial_BaseColor.uasset'
+[2021.07.06-01.01.40:669][659]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/raquette_DefaultMaterial_OcclusiC13B0FBA43C07AB451A9C58C57035081.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Textures/raquette/raquette_DefaultMaterial_OcclusionRoughnessMetallic.uasset'
+[2021.07.06-01.01.40:809][659]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/raquette_DefaultMaterial_NormalF56092A94F2EDA8BF3032DA3D66B1302.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Textures/raquette/raquette_DefaultMaterial_Normal.uasset'
+[2021.07.06-01.01.40:882][659]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/raquette_DefaultMaterial_Emissiv7039392743C8BE055F8282B6DBB31AE0.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Textures/raquette/raquette_DefaultMaterial_Emissive.uasset'
+[2021.07.06-01.01.41:069][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.06-01.01.41:113][659]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2021.07.06-01.01.41:127][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.07.06-01.01.41:142][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.07.06-01.01.41:164][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.07.06-01.01.41:178][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.07.06-01.01.41:220][659]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.06-01.01.41:221][659]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/raquette/raquette_DefaultMaterial_BaseColor.raquette_DefaultMaterial_BaseColor
+[2021.07.06-01.01.41:221][659]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/raquette/raquette_DefaultMaterial_Emissive.raquette_DefaultMaterial_Emissive
+[2021.07.06-01.01.41:221][659]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/raquette/raquette_DefaultMaterial_Normal.raquette_DefaultMaterial_Normal
+[2021.07.06-01.01.41:221][659]LogContentValidation: Display: Validating Texture2D /Game/Materials/Textures/raquette/raquette_DefaultMaterial_OcclusionRoughnessMetallic.raquette_DefaultMaterial_OcclusionRoughnessMetallic
+[2021.07.06-01.01.49:216][ 96]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.01.49:229][ 96]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.01.49:233][ 96]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.01.49:239][ 96]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.01.50:632][165]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.06-01.01.50:654][166]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.07.06-01.01.50:942][179]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.07.06-01.01.51:043][183]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.07.06-01.01.51:114][187]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2021.07.06-01.01.51:114][187]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.07.06-01.01.51:133][188]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.07.06-01.01.51:166][190]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2021.07.06-01.01.51:352][201]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.06-01.01.51:411][204]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.01.51:430][204]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.06-01.01.51:526][207]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2021.07.06-01.01.51:892][219]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 12
+[2021.07.06-01.01.51:911][220]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2021.07.06-01.01.51:932][221]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.07.06-01.01.52:228][236]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.07.06-01.01.52:454][247]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.07.06-01.01.52:474][248]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.07.06-01.01.52:737][261]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.07.06-01.01.52:737][261]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.06-01.01.52:989][274]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.07.06-01.01.53:010][275]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2021.07.06-01.01.53:237][286]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.06-01.01.53:421][295]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.06-01.01.53:912][319]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.02.07:179][ 92]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.07:185][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.07.06-01.02.07:187][ 92]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.07:188][ 92]LogMaterial: Warning: [AssetLog] /Engine/Transient.Raquette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.06-01.02.07:188][ 92]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.07:197][ 92]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.07.06-01.02.07:200][ 92]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.16:735][646]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.16:747][646]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.02.16:748][646]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.16:753][646]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.07.06-01.02.16:763][646]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.18:096][710]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.06-01.02.18:096][710]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.07.06-01.02.18:350][724]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.07.06-01.02.18:493][731]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.07.06-01.02.18:567][733]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2021.07.06-01.02.18:567][733]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2021.07.06-01.02.18:608][735]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.07.06-01.02.18:681][739]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.07.06-01.02.18:849][744]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.06-01.02.18:977][750]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.19:334][761]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2021.07.06-01.02.19:334][761]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.19:433][766]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.07.06-01.02.20:244][800]MaterialEditorStats: Base pass shader: 122 instructions
+[2021.07.06-01.02.20:244][800]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 196 instructions
+[2021.07.06-01.02.20:244][800]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.02.20:244][800]MaterialEditorStats: Texture samplers: 4/16
+[2021.07.06-01.02.20:245][800]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.07.06-01.02.20:245][800]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.02.27:970][257]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.27:975][257]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.02.27:975][257]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.02.27:975][257]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.02.27:975][257]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.02.27:975][257]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.02.27:976][257]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.27:976][257]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.02.27:976][257]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.27:977][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.07.06-01.02.27:978][257]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.27:979][257]LogMaterial: Warning: [AssetLog] /Engine/Transient.Raquette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.06-01.02.27:979][257]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.27:994][257]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.07.06-01.02.28:088][260]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.35:217][660]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.35:229][660]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.02.35:229][660]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.02.35:229][660]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.02.35:229][660]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.02.35:230][660]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.02.35:230][660]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.35:230][660]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.02.35:230][660]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.35:234][660]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.07.06-01.02.35:244][660]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.36:035][689]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.06-01.02.36:055][690]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.07.06-01.02.36:401][703]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.07.06-01.02.36:482][706]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.07.06-01.02.36:551][708]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.07.06-01.02.36:611][711]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.07.06-01.02.36:611][711]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2021.07.06-01.02.36:630][712]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.07.06-01.02.36:791][721]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.06-01.02.36:996][726]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.37:268][734]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.07.06-01.02.37:384][738]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.06-01.02.37:384][738]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.07.06-01.02.38:260][776]MaterialEditorStats: Base pass shader: 124 instructions
+[2021.07.06-01.02.38:260][776]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 198 instructions
+[2021.07.06-01.02.38:261][776]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.02.38:261][776]MaterialEditorStats: Texture samplers: 5/16
+[2021.07.06-01.02.38:261][776]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.07.06-01.02.38:261][776]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.02.43:358][ 79]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.43:364][ 79]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.07.06-01.02.43:365][ 79]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.02.43:365][ 79]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.02.43:365][ 79]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.02.43:365][ 79]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.02.43:365][ 79]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.02.43:366][ 79]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.43:366][ 79]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.02.43:366][ 79]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.43:367][ 79]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.43:368][ 79]LogMaterial: Warning: [AssetLog] /Engine/Transient.Raquette (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.07.06-01.02.43:368][ 79]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.43:386][ 79]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.07.06-01.02.43:391][ 79]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2021.07.06-01.02.49:880][440]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.49:892][440]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.07.06-01.02.49:897][440]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 5
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2021.07.06-01.02.49:898][440]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2021.07.06-01.02.49:903][440]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.50:675][472]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2021.07.06-01.02.50:743][475]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2021.07.06-01.02.51:145][493]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2021.07.06-01.02.51:235][497]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2021.07.06-01.02.51:256][498]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2021.07.06-01.02.51:297][500]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2021.07.06-01.02.51:352][503]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2021.07.06-01.02.51:372][504]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2021.07.06-01.02.51:541][513]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2021.07.06-01.02.51:673][519]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2021.07.06-01.02.52:077][532]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.07.06-01.02.52:154][535]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.06-01.02.52:174][536]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: Base pass shader: 130 instructions
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: Texture samplers: 6/16
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.07.06-01.02.53:058][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.02.55:783][737]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.55:794][737]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.55:802][737]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.55:839][738]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.07.06-01.02.55:839][738]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.07.06-01.02.55:840][738]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.07.06-01.02.56:229][755]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.07.06-01.02.56:471][764]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.07.06-01.02.56:646][772]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.07.06-01.02.56:697][774]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2021.07.06-01.02.57:004][784]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.07.06-01.02.57:005][784]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.07.06-01.02.57:875][827]LogMaterialEditor: Saving and Compiling material Raquette
+[2021.07.06-01.02.58:559][827]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.07.06-01.02.58:606][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.07.06-01.02.58:614][827]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.02.58:653][827]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.06-01.02.58:665][827]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.06-01.02.59:225][827]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 25
+[2021.07.06-01.02.59:225][827]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 24
+[2021.07.06-01.02.59:225][827]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 23
+[2021.07.06-01.02.59:225][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2021.07.06-01.02.59:778][827]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.07.06-01.03.00:036][827]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2021.07.06-01.03.00:037][827]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2021.07.06-01.03.00:037][827]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2021.07.06-01.03.00:037][827]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.07.06-01.03.00:045][827]TextureStreamingBuild: Display: Compiling optional shaders took 1.388 seconds.
+[2021.07.06-01.03.00:090][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.07.06-01.03.00:715][827]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2021.07.06-01.03.01:268][827]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2021.07.06-01.03.01:268][827]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.07.06-01.03.01:268][827]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2021.07.06-01.03.01:708][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Raquette" FILE="../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Raquette.uasset" SILENT=true
+[2021.07.06-01.03.01:716][827]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/RaquetteC2D0C33E478EA6D40F70AA8BEBFBE94A.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Raquette.uasset'
+[2021.07.06-01.03.01:762][827]AssetCheck: New page: Asset Save: Raquette
+[2021.07.06-01.03.01:762][827]LogContentValidation: Display: Validating Material /Game/Materials/Raquette.Raquette
+[2021.07.06-01.03.01:764][827]MaterialEditorStats: Base pass shader: 135 instructions
+[2021.07.06-01.03.01:764][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.07.06-01.03.01:764][827]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.03.01:764][827]MaterialEditorStats: Texture samplers: 7/16
+[2021.07.06-01.03.01:764][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.07.06-01.03.01:765][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.03.04:407][982]LogMaterial: Display: Missing cached shader map for material Raquette, compiling. 
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 14
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2021.07.06-01.03.04:434][983]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 7
+[2021.07.06-01.03.04:835][  3]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2021.07.06-01.03.05:055][ 13]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2021.07.06-01.03.05:256][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.07.06-01.03.05:277][ 23]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2021.07.06-01.03.05:529][ 36]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.07.06-01.03.05:530][ 36]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: Base pass shader: 135 instructions
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 209 instructions
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: Texture samplers: 6/16
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2021.07.06-01.03.16:980][714]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.06-01.03.19:128][837]LogMaterialEditor: Saving and Compiling material Raquette
+[2021.07.06-01.03.19:164][837]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Raquette" FILE="../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Raquette.uasset" SILENT=true
+[2021.07.06-01.03.19:169][837]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Raquette811194894B24D39000FE36973B18933E.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Materials/Raquette.uasset'
+[2021.07.06-01.03.19:186][837]AssetCheck: New page: Asset Save: Raquette
+[2021.07.06-01.03.19:187][837]LogContentValidation: Display: Validating Material /Game/Materials/Raquette.Raquette
+>>>>>>> c49668f9e1c7a4c1428954d0eb11ee9f3a8ca4e8

@@ -1,0 +1,1472 @@
+﻿Log file open, 07/06/21 02:49:24
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: LeapTestProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.499284
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin LeapMotion
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9850H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2021.07.06-00.49.25:545][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2021.07.06-00.49.25:546][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2021.07.06-00.49.25:547][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2021.07.06-00.49.25:548][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2021.07.06-00.49.25:549][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2021.07.06-00.49.25:550][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.07.06-00.49.25:551][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.07.06-00.49.25:552][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:552][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:618][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:618][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.06-00.49.25:618][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.06-00.49.25:619][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.06-00.49.25:620][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.06-00.49.25:621][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.06-00.49.25:622][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.06-00.49.25:622][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.06-00.49.25:622][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.07.06-00.49.25:622][  0]LogHAL: Display: Platform has ~ 32 GB [34166124544 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.06-00.49.25:622][  0]LogInit: Going up to parent DeviceProfile []
+[2021.07.06-00.49.25:622][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.07.06-00.49.25:623][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.07.06-00.49.25:624][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.07.06-00.49.25:625][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.07.06-00.49.25:626][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.07.06-00.49.25:627][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Scalability.ini]
+[2021.07.06-00.49.25:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.07.06-00.49.25:627][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.07.06-00.49.25:627][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.07.06-00.49.25:627][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.07.06-00.49.25:628][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.07.06-00.49.25:628][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.07.06-00.49.25:628][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.07.06-00.49.25:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Engine.ini]
+[2021.07.06-00.49.25:628][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Config/Windows/Editor.ini]
+[2021.07.06-00.49.25:628][  0]LogInit: Computer: DESKTOP-K4RNKHS
+[2021.07.06-00.49.25:628][  0]LogInit: User: HPZbook17G6
+[2021.07.06-00.49.25:628][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.07.06-00.49.25:628][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.07.06-00.49.25:628][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2021.07.06-00.49.25:628][  0]LogMemory: Platform Memory Stats for Windows
+[2021.07.06-00.49.25:628][  0]LogMemory: Process Physical Memory: 133.71 MB used, 133.71 MB peak
+[2021.07.06-00.49.25:629][  0]LogMemory: Process Virtual Memory: 112.21 MB used, 112.21 MB peak
+[2021.07.06-00.49.25:629][  0]LogMemory: Physical Memory: 11551.05 MB used,  21032.31 MB free, 32583.36 MB total
+[2021.07.06-00.49.25:629][  0]LogMemory: Virtual Memory: 134197424.00 MB used,  20302.92 MB free, 134217728.00 MB total
+[2021.07.06-00.49.25:661][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.07.06-00.49.25:918][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.07.06-00.49.25:920][  0]LogInit: Using OS detected language (en-GB).
+[2021.07.06-00.49.25:920][  0]LogInit: Using OS detected locale (fr-FR).
+[2021.07.06-00.49.25:934][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2021.07.06-00.49.26:157][  0]LogInit: Setting process to per monitor DPI aware
+[2021.07.06-00.49.26:196][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.06-00.49.26:239][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.07.06-00.49.26:239][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.07.06-00.49.32:961][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.07.06-00.49.32:961][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.07.06-00.49.32:961][  0]LogD3D11RHI: D3D11 adapters:
+[2021.07.06-00.49.33:137][  0]LogD3D11RHI:    0. 'NVIDIA Quadro RTX 5000' (Feature Level 11_0)
+[2021.07.06-00.49.33:137][  0]LogD3D11RHI:       16170/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:4, VendorId:0x10de
+[2021.07.06-00.49.33:189][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.07.06-00.49.33:189][  0]LogD3D11RHI:       128/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.06-00.49.33:196][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.07.06-00.49.33:196][  0]LogD3D11RHI:       0/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.07.06-00.49.33:241][  0]LogD3D11RHI:    3. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2021.07.06-00.49.33:241][  0]LogD3D11RHI:       128/0/16291 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.07.06-00.49.33:241][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.07.06-00.49.33:249][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.07.06-00.49.33:249][  0]LogD3D11RHI:     GPU DeviceId: 0x1eb5 (for the marketing name, search the web for "GPU Device Id")
+[2021.07.06-00.49.33:249][  0]LogWindows: EnumDisplayDevices:
+[2021.07.06-00.49.33:249][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2021.07.06-00.49.33:250][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.07.06-00.49.33:250][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2021.07.06-00.49.33:251][  0]LogWindows:    3. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.49.33:252][  0]LogWindows:    4. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.49.33:253][  0]LogWindows:    5. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.49.33:253][  0]LogWindows:    6. 'NVIDIA Quadro RTX 5000' (P:0 D:0)
+[2021.07.06-00.49.33:254][  0]LogWindows:    7. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.49.33:255][  0]LogWindows:    8. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.49.33:255][  0]LogWindows:    9. 'Virtual Display Adapter' (P:0 D:1)
+[2021.07.06-00.49.33:256][  0]LogWindows:    10. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:257][  0]LogWindows:    11. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:258][  0]LogWindows:    12. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:258][  0]LogWindows:    13. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:259][  0]LogWindows:    14. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:260][  0]LogWindows:    15. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:260][  0]LogWindows:    16. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:261][  0]LogWindows:    17. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:262][  0]LogWindows:    18. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:262][  0]LogWindows:    19. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:263][  0]LogWindows:    20. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:263][  0]LogWindows:    21. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:264][  0]LogWindows:    22. 'Virtual Display Adapter' (P:0 D:0)
+[2021.07.06-00.49.33:265][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.07.06-00.49.33:265][  0]LogD3D11RHI:     Adapter Name: NVIDIA Quadro RTX 5000
+[2021.07.06-00.49.33:265][  0]LogD3D11RHI:   Driver Version: 471.11 (internal:30.0.14.7111, unified:471.11)
+[2021.07.06-00.49.33:265][  0]LogD3D11RHI:      Driver Date: 6-21-2021
+[2021.07.06-00.49.33:265][  0]LogRHI: Texture pool is 11319 MB (70% of 16170 MB)
+[2021.07.06-00.49.33:385][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.07.06-00.49.33:386][  0]LogD3D11RHI: Async texture creation enabled
+[2021.07.06-00.49.33:386][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.07.06-00.49.33:448][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.07.06-00.49.33:452][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.07.06-00.49.33:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.06-00.49.33:894][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.06-00.49.33:895][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.06-00.49.33:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.06-00.49.33:940][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.06-00.49.34:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.06-00.49.34:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.06-00.49.34:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.06-00.49.34:489][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.06-00.49.34:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.06-00.49.34:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.06-00.49.34:540][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.06-00.49.34:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.06-00.49.34:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.06-00.49.34:605][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.06-00.49.34:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.06-00.49.34:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.06-00.49.34:658][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.06-00.49.34:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.06-00.49.34:693][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.06-00.49.34:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.06-00.49.34:730][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.06-00.49.34:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.06-00.49.34:766][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.06-00.49.34:766][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.07.06-00.49.34:792][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.06-00.49.35:010][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.07.06-00.49.35:010][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Intermediate/Shaders/WorkingDirectory/17600/).
+[2021.07.06-00.49.35:010][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/HP Zbook17 G6/AppData/Local/Temp/UnrealShaderWorkingDir/267473E541180560050EC69CC970B73F/'.
+[2021.07.06-00.49.35:011][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.07.06-00.49.35:011][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.06-00.49.35:989][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.06-00.49.36:039][  0]LogDerivedDataCache: Loaded boot cache 0.05s 98MB C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.06-00.49.36:039][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.06-00.49.36:039][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.07.06-00.49.36:039][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.07.06-00.49.36:040][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.06-00.49.36:040][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.07.06-00.49.36:052][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.06-00.49.36:052][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.07.06-00.49.36:052][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.07.06-00.49.36:074][  0]LogDerivedDataCache: Speed tests for C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.07.06-00.49.36:074][  0]LogDerivedDataCache: Display: Performance to C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=159.07MBs, RandomWriteSpeed=61.70MBs. Assigned SpeedClass 'Local'
+[2021.07.06-00.49.36:076][  0]LogDerivedDataCache: Using Local data cache path C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.07.06-00.49.36:077][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.07.06-00.49.36:077][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.07.06-00.49.36:151][  0]LogSlate: Using FreeType 2.10.0
+[2021.07.06-00.49.36:153][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.07.06-00.49.36:219][  0]LogAssetRegistry: FAssetRegistry took 0.0073 seconds to start up
+[2021.07.06-00.49.36:669][  0]LogInit: Selected Device Profile: [Windows]
+[2021.07.06-00.49.36:669][  0]LogInit: Active device profile: [0000015ABC1A9D00][0000015A9F8DA780 49] Windows
+[2021.07.06-00.49.36:669][  0]LogInit: Profiles: [0000015ABC1A9D00][0000015A9F8DA780 49] Windows, [0000015ABC14E700][0000015A9F8E2900 49] WindowsNoEditor, [0000015ABC1A8D00][0000015A9F8E6A80 49] WindowsServer, [0000015ABC14F300][0000015A9F8EAC00 49] WindowsClient, [0000015ABC1AAA00][0000015A9F8EED80 49] IOS, [0000015ABC14E200][0000015A9F8F2F00 49] iPadAir, [0000015ABC1AAD00][0000015A9F8F7080 49] iPadAir2, [0000015ABC0BB000][0000015ABB369340 49] IPadPro, [0000015ABC0BB100][0000015ABB365380 49] iPadAir3, [0000015ABC1A9500][0000015ABB36D500 49] iPadAir4, [0000015ABC0BA800][0000015A9F8DF640 49] iPadMini2, [0000015ABC1AB200][0000015ABB371780 49] iPadMini3, [0000015ABC0B9600][0000015ABB3758C0 49] iPadMini4, [0000015ABC1A9200][0000015ABB379A00 49] iPadMini5, [0000015ABC0E6900][0000015ABB385CC0 49] iPhone6, [0000015ABC0E6A00][0000015ABB381D00 49] iPodTouch6, [0000015ABC0BB600][0000015ABB3CC300 49] iPhone7, [0000015ABC0BB700][0000015ABB388340 49] iPodTouch7, [0000015ABC0E6700][0000015ABB3D04C0 49] iPhone5S, [0000015ABC0B8100][0000015ABB3D4640 49] iPhone6Plus, [0000015ABC0E5400][0000015ABB3D87C0 49] iPhone6S, [0000015ABC0B8700][0000015ABB3DC940 49] iPhone6SPlus, [0000015ABC0E4200][0000015ABB3E0AC0 49] iPhone7Plus, [0000015ABC0BA600][0000015ABB3ECC40 49] iPhoneSE, [0000015ABC0E7000][0000015ABB3F0DC0 49] iPhone8, [0000015ABC0BBF00][0000015ABB3F4F40 49] iPhone8Plus, [0000015ABC0E5C00][0000015ABB3F90C0 49] iPhoneX, [0000015ABC0BA300][0000015ABB3FD240 49] iPhoneXS, [0000015ABC0E4400][0000015ABB4013C0 49] iPhoneXSMax, [0000015ABC0BBC00][0000015ABB405540 49] iPhoneXR, [0000015ABC0E7E00][0000015ABB4096C0 49] iPhone11, [0000015ABC0BA000][0000015ABB37D800 49] iPhone11Pro, [0000015ABC0E7500][0000015ABB40D940 49] iPhone11ProMax, [0000015ABC0BAC00][0000015ABB411A80 49] iPhoneSE2, [0000015ABC0E7700][0000015ABB419C00 49] iPhone12Mini, [0000015ABC0B8B00][0000015ABB41C0C0 49] iPhone12, [0000015ABC0E6300][0000015ABC430240 49] iPhone12Pro, [0000015ABC0BB400][0000015ABC4343C0 49] iPhone12ProMax, [0000015ABC0BA900][0000015ABC438540 49] iPadPro105, [0000015ABC14DB00][0000015ABC43C6C0 49] iPadPro129, [0000015ABC0B8F00][0000015ABC440840 49] iPadPro97, [0000015ABC14FC00][0000015ABC4449C0 49] iPadPro2_129, [0000015ABC0BB900][0000015ABC448B40 49] iPad5, [0000015ABC14FF00][0000015ABC44CCC0 49] iPad6, [0000015ABC0BAD00][0000015ABC450E40 49] iPad7, [0000015ABC14E800][0000015ABC454FC0 49] iPad8, [0000015ABC14CC00][0000015ABC459140 49] iPadPro11, [0000015ABC0E7D00][0000015ABC45D2C0 49] iPadPro2_11, [0000015ABC14D100][0000015ABC461440 49] iPadPro3_129, [0000015ABC0E4B00][0000015ABC4655C0 49] iPadPro4_129, [0000015ABC14E500][0000015ABC469740 49] AppleTV, [0000015ABC0E5000][0000015ABB415880 49] AppleTV4K, [0000015ABC14C600][0000015ABC46D9C0 49] TVOS, [0000015ABC0E7F00][0000015ABC471B00 49] Mac, [0000015ABC14C200][0000015ABC475C40 49] MacClient, [0000015ABC0B8800][0000015ABC47C100 49] MacNoEditor, [0000015ABC14EC00][0000015ABC480280 49] MacServer, [0000015ABC0B8200][0000015ABC484400 49] Linux, [0000015ABC14D600][0000015ABC488580 49] LinuxAArch64, [0000015ABC0BAA00][0000015ABC48C700 49] LinuxNoEditor, [0000015ABC14DC00][0000015ABC490880 49] LinuxAArch64NoEditor, [0000015ABC0BBE00][0000015ABC494A00 49] LinuxClient, [0000015ABC14CB00][0000015ABC498B80 49] LinuxAArch64Client, [0000015ABC0BBB00][0000015ABC49CD00 49] LinuxServer, [0000015ABC14C800][0000015ABC4A0E80 49] LinuxAArch64Server, [0000015ABC0BB500][0000015ABC4A5000 49] Android, [0000015ABC14EB00][0000015ABC4A9180 49] Android_Low, [0000015ABC0BA700][0000015ABC4AD300 49] Android_Mid, [0000015ABC14F200][0000015ABC4B1480 49] Android_High, [0000015ABC0BAF00][0000015ABC4B5600 49] Android_Default, [0000015ABC14DA00][0000015ABC4B9780 49] Android_Adreno4xx, [0000015ABC0B9200][0000015ABC4798C0 49] Android_Adreno5xx_Low, [0000015ABC14CD00][0000015ABC4BDA00 49] Android_Adreno5xx, [0000015ABC0B8D00][0000015ABC4C1B40 49] Android_Adreno6xx, [0000015ABC14C700][0000015ABC4C5C80 49] Android_Adreno6xx_Vulkan, [0000015ABC0B8300][0000015ABC4CC140 49] Android_Mali_T6xx, [0000015ABC14C500][0000015ABC4D02C0 49] Android_Mali_T7xx, [0000015ABC0B9400][0000015ABC4D4440 49] Android_Mali_T8xx, [0000015ABC14DF00][0000015ABC4D85C0 49] Android_Mali_G71, [0000015ABC0B9900][0000015ABC4DC740 49] Android_Mali_G72, [0000015ABC14C100][0000015ABC4E08C0 49] Android_Mali_G72_Vulkan, [0000015ABC0BA400][0000015ABC4E4A40 49] Android_Mali_G76, [0000015ABC14DD00][0000015ABC4E8BC0 49] Android_Mali_G76_Vulkan, [0000015ABC0B8A00][0000015ABC4ECD40 49] Android_Mali_G77, [0000015ABC14E300][0000015ABC4F0EC0 49] Android_Mali_G77_Vulkan, [0000015ABC0BAB00][0000015ABC4F5040 49] Android_Vulkan_SM5, [0000015ABC14CF00][0000015ABC4F91C0 49] Android_PowerVR_G6xxx, [0000015ABC0B9800][0000015ABC4FD340 49] Android_PowerVR_GT7xxx, [0000015ABC14D300][0000015ABC5014C0 49] Android_PowerVR_GE8xxx, [0000015ABC0B9E00][0000015ABC505640 49] Android_PowerVR_GM9xxx, [0000015ABC14F900][0000015ABC5097C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000015ABC0B9000][0000015ABC50D940 49] Android_TegraK1, [0000015ABC14EA00][0000015ABC4C9A80 49] Android_Unknown_Vulkan, [0000015ABC0E6200][0000015ABC511BC0 49] Lumin, [0000015ABC1A8200][0000015ABC515D00 49] Lumin_Desktop, [0000015ABC0E7300][0000015ABC51C1C0 49] HoloLens, 
+[2021.07.06-00.49.36:997][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.07.06-00.49.36:997][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.07.06-00.49.36:998][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.07.06-00.49.36:998][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.07.06-00.49.36:998][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.07.06-00.49.37:076][  0]LogNetVersion: LeapTestProject 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 2153292125)
+[2021.07.06-00.49.38:295][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.07.06-00.49.38:389][  0]LogPackageLocalizationCache: Processed 23 localized package path(s) for 1 prioritized culture(s) in 0.092968 seconds
+[2021.07.06-00.49.38:394][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.07.06-00.49.38:395][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.07.06-00.49.38:395][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.07.06-00.49.39:308][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.07.06-00.49.39:321][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.07.06-00.49.39:681][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.39:681][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.39:691][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.39:710][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.39:730][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.39:749][  0]LogUProjectInfo: Found projects:
+[2021.07.06-00.49.40:323][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.07.06-00.49.40:355][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.06-00.49.40:355][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.06-00.49.40:483][  0]LogCollectionManager: Loaded 0 collections in 0.001459 seconds
+[2021.07.06-00.49.40:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/Collections/' took 0.00s
+[2021.07.06-00.49.40:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Developers/HPZbook17G6/Collections/' took 0.00s
+[2021.07.06-00.49.40:541][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Collections/' took 0.00s
+[2021.07.06-00.49.40:541][  0]LogOcInput: OculusInput pre-init called
+[2021.07.06-00.49.40:576][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.07.06-00.49.40:577][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.07.06-00.49.40:630][  0]LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' (GetLastError=126)
+[2021.07.06-00.49.40:630][  0]LogWindows: File '../../../Engine/Binaries/ThirdParty/LeapMotion/Win64/LeapC.dll' does not exist
+[2021.07.06-00.49.40:631][  0]LeapMotionLog: Leap Plugin started v3.7
+[2021.07.06-00.49.40:711][  0]LogClass: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.07.06-00.49.40:711][  0]LogClass: Warning: FBodyStateDeviceConfig::InputType is not initialized properly. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.07.06-00.49.40:712][  0]LogClass: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.07.06-00.49.40:712][  0]LogClass: Display: 3 Uninitialized script struct members found
+[2021.07.06-00.49.40:712][  0]LogAutomationTest: Warning: ObjectProperty FMappedBoneAnimData::BodyStateSkeleton is not initialized properly. Module:BodyState File:Public/BodyStateAnimInstance.h
+[2021.07.06-00.49.40:712][  0]LogAutomationTest: Warning: FBodyStateDeviceConfig::InputType is not initialized properly. Module:BodyState File:Public/BodyStateDeviceConfig.h
+[2021.07.06-00.49.40:712][  0]LogAutomationTest: Warning: FLeapStats::FrameExtrapolationInMS is not initialized properly. Module:LeapMotion File:Public/LeapMotionData.h
+[2021.07.06-00.49.40:713][  0]LogEngine: Initializing Engine...
+[2021.07.06-00.49.40:714][  0]LogHMD: SteamVR initialized.  Driver: holographic  Display: WindowsHolographic
+[2021.07.06-00.49.40:715][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.07.06-00.49.40:841][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.07.06-00.49.40:857][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.07.06-00.49.40:859][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.06-00.49.40:869][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.06-00.49.40:869][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.06-00.49.40:869][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.06-00.49.40:869][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.06-00.49.40:870][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.06-00.49.40:870][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.06-00.49.40:926][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.06-00.49.40:926][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.06-00.49.41:013][  0]LogAudioMixer: Display: Using Audio Device Speakers (2- Realtek USB2.0 Audio)
+[2021.07.06-00.49.41:015][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.06-00.49.41:021][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.06-00.49.41:021][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.06-00.49.41:022][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.06-00.49.41:022][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.06-00.49.41:022][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.06-00.49.41:025][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.06-00.49.41:025][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.06-00.49.41:025][  0]LogInit: FAudioDevice initialized.
+[2021.07.06-00.49.41:025][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.06-00.49.41:025][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.07.06-00.49.41:072][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/HP Zbook17 G6/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.07.06-00.49.41:072][  0]LogInit: Texture streaming: Enabled
+[2021.07.06-00.49.41:101][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.07.06-00.49.41:110][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.07.06-00.49.41:110][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.07.06-00.49.41:115][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.07.06-00.49.41:170][  0]LogInit: Transaction tracking system initialized
+[2021.07.06-00.49.41:232][  0]BlueprintLog: New page: Editor Load
+[2021.07.06-00.49.41:404][  0]LocalizationService: Localization service is disabled
+[2021.07.06-00.49.41:463][  0]TimingProfiler: Initialize
+[2021.07.06-00.49.41:463][  0]TimingProfiler: OnSessionChanged
+[2021.07.06-00.49.41:463][  0]LoadingProfiler: Initialize
+[2021.07.06-00.49.41:463][  0]LoadingProfiler: OnSessionChanged
+[2021.07.06-00.49.41:463][  0]NetworkingProfiler: Initialize
+[2021.07.06-00.49.41:463][  0]NetworkingProfiler: OnSessionChanged
+[2021.07.06-00.49.41:463][  0]MemoryProfiler: Initialize
+[2021.07.06-00.49.41:463][  0]MemoryProfiler: OnSessionChanged
+[2021.07.06-00.49.41:755][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.06-00.49.41:755][  0]LogCook: Display: Mobile HDR setting 1
+[2021.07.06-00.49.42:110][  0]LogFileCache: Scanning file cache for directory 'C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/' took 0.01s
+[2021.07.06-00.49.42:425][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.06-00.49.42:430][  0]SourceControl: Source control is disabled
+[2021.07.06-00.49.42:430][  0]LogUnrealEdMisc: Loading editor; pre map load, took 20.005
+[2021.07.06-00.49.42:430][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.06-00.49.42:431][  0]LightingResults: New page: Lighting Build
+[2021.07.06-00.49.42:433][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.49.42:433][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.49.42:433][  0]MapCheck: New page: Map Check
+[2021.07.06-00.49.42:433][  0]LightingResults: New page: Lighting Build
+[2021.07.06-00.49.42:443][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2021.07.06-00.49.42:524][  0]LogTexture: Display: Building textures: DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.06-00.49.42:529][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.07.06-00.49.42:530][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2021.07.06-00.49.42:539][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.06-00.49.42:545][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.06-00.49.42:546][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.06-00.49.42:546][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,692ms to complete.
+[2021.07.06-00.49.42:547][  0]LogFileHelpers: Loading map 'Template_Default' took 0.116
+[2021.07.06-00.49.42:550][  0]LogUnrealEdMisc: Total Editor Startup Time, took 20.124
+[2021.07.06-00.49.42:711][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.49.42:717][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.49.42:722][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.49.42:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.06-00.49.42:749][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3616 classes and 869 folders.
+[2021.07.06-00.49.42:753][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.49.42:757][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.49.42:757][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:757][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.49.42:757][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.07.06-00.49.42:759][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.06-00.49.42:759][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:759][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.06-00.49.42:759][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.07.06-00.49.42:760][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.07.06-00.49.42:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.07.06-00.49.42:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.07.06-00.49.42:762][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.49.42:763][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:763][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.49.42:763][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.07.06-00.49.42:764][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.06-00.49.42:765][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:765][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.06-00.49.42:765][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.07.06-00.49.42:766][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.06-00.49.42:767][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:767][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.06-00.49.42:767][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.07.06-00.49.42:768][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.06-00.49.42:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.06-00.49.42:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.07.06-00.49.42:770][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.06-00.49.42:770][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:770][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.06-00.49.42:770][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.07.06-00.49.42:772][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.49.42:772][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:772][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.49.42:772][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.07.06-00.49.42:774][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.07.06-00.49.42:774][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:774][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.07.06-00.49.42:774][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.07.06-00.49.42:775][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.07.06-00.49.42:775][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:776][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.07.06-00.49.42:776][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.07.06-00.49.42:777][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.49.42:777][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:777][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.49.42:777][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.07.06-00.49.42:779][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.49.42:779][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:779][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.49.42:779][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2021.07.06-00.49.42:780][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.49.42:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.49.42:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2021.07.06-00.49.42:781][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.07.06-00.49.42:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:782][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.07.06-00.49.42:782][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2021.07.06-00.49.42:783][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.49.42:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.49.42:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2021.07.06-00.49.42:785][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.07.06-00.49.42:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.07.06-00.49.42:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000054
+[2021.07.06-00.49.42:786][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.49.42:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.49.42:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000057
+[2021.07.06-00.49.42:788][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.49.42:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.49.42:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000060
+[2021.07.06-00.49.42:790][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.49.42:790][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.49.42:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.07.06-00.49.42:791][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.07.06-00.49.42:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.07.06-00.49.42:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2021.07.06-00.49.42:793][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.07.06-00.49.42:793][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:793][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.07.06-00.49.42:793][  0]LogPakFile: OnPakFileMounted2Time == 0.000068
+[2021.07.06-00.49.42:795][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.07.06-00.49.42:795][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:795][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.07.06-00.49.42:795][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2021.07.06-00.49.42:796][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.07.06-00.49.42:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.07.06-00.49.42:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.07.06-00.49.42:798][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.07.06-00.49.42:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.07.06-00.49.42:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000077
+[2021.07.06-00.49.42:799][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.07.06-00.49.42:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.07.06-00.49.42:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.07.06-00.49.42:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000080
+[2021.07.06-00.49.42:896][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.49.42:898][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.07.06-00.49.42:966][  0]LogSlate: Took 0.000558 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.07.06-00.49.42:968][  0]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.07.06-00.49.42:973][  0]LogSlate: Took 0.000610 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.07.06-00.49.43:110][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2021.07.06-00.49.43:554][  0]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.06-00.49.43:627][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.07.06-00.49.43:628][  0]LogLoad: (Engine Initialization) Total time: 21.20 seconds
+[2021.07.06-00.49.43:628][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.07.06-00.49.43:628][  0]LogInit: First time updating LLM stats...
+[2021.07.06-00.49.43:642][  0]LeapMotionLog: ServiceMessageLoop started.
+[2021.07.06-00.49.43:642][  0]BodyStateLog: BodyState::DeviceAttached: Leap Motion (1)
+[2021.07.06-00.49.43:642][  0]BodyStateLog: BodyState::DeviceAttached: HMD (2)
+[2021.07.06-00.49.43:642][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2021.07.06-00.49.43:642][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.49.43:643][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.49.43:643][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.49.43:785][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.07.06-00.49.43:788][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [17600][application.generated.ue.leaptestproject-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.07.06-00.49.43:788][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.49.43:789][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.07.06-00.49.43:789][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.07.06-00.49.43:789][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.07.06-00.49.43:789][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:789][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.07.06-00.49.43:790][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.07.06-00.49.43:791][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:792][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.07.06-00.49.43:793][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.07.06-00.49.43:794][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.07.06-00.49.43:795][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.07.06-00.49.43:796][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:798][  0]LogSteamVRInputDevice: Display: Action Manifest Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.49.43:798][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.49.43:799][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings
+[2021.07.06-00.49.43:818][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest ../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2021.07.06-00.49.43:819][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [17600][application.generated.ue.leaptestproject-15973114.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2021.07.06-00.49.43:819][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: C:/Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Config/SteamVRBindings/steamvr_manifest.json
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_camera
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_chest
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:820][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_left
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_shoulder_right
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_left
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_elbow_right
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_left
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_knee_right
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_waist
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_left
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:821][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_foot_right
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_keyboard
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_left
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_pose_right
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_left
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_back_right
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_left
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_front_right
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:822][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_left
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_frontr_right
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_left
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/tracker_handed_grip_right
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2021.07.06-00.49.43:823][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:824][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2021.07.06-00.49.43:824][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2021.07.06-00.49.43:863][  0]LogAssetRegistry: Asset discovery search completed in 7.6472 seconds
+[2021.07.06-00.49.43:865][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.07.06-00.49.43:865][  0]LogHMD: SteamVR Shutting down.
+[2021.07.06-00.49.43:873][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.07.06-00.49.43:888][  0]LogSlate: Took 0.001971 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.07.06-00.49.43:984][  1]LeapMotionLog: LeapService: OnConnect.
+[2021.07.06-00.49.44:001][  2]LeapMotionLog: LeapServiceLog: Tracking optimized for head-mounted device
+[2021.07.06-00.50.16:787][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2021.07.06-00.50.18:156][918]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.06-00.50.18:164][918]LogSlate: Took 0.000383 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.07.06-00.50.18:296][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.07.06-00.50.18:317][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.07.06-00.50.18:322][918]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.07.06-00.50.32:268][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.07.06-00.50.32:356][428]LogLinker: Warning: Asset '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Plugins/LeapMotion/Content/BodyState/BSLowPolyLeftAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.07.06-00.50.32:370][428]LogLinker: Warning: Asset '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Plugins/LeapMotion/Content/BodyState/BSLowPolyRightAnimBP.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.07.06-00.50.32:421][428]LogLinker: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\Maps\LeapTestMap1.umap: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:422][428]LogLinker: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\Maps\LeapTestMap1.umap: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:424][428]LogLinker: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\Maps\LeapTestMap1.umap: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:425][428]LogLinker: Warning: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:426][428]LogLinker: Warning: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:437][428]LogLinker: Warning: [AssetLog] C:\Users\HP Zbook17 G6\Documents\GitHub\GameJamLavalVirtual\LeapTestProject\Content\Maps\LeapTestMap1.umap: Failed to load '/Game/Maps/LeapTestMap1_BuiltData': Can't find file.
+[2021.07.06-00.50.32:437][428]LoadErrors: Failed to load /Game/Maps/LeapTestMap1_BuiltData.LeapTestMap1_BuiltData Referenced by PersistentLevel
+[2021.07.06-00.50.32:470][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0100
+[2021.07.06-00.50.32:470][428]LogScript: Warning: Accessed None trying to read property CallFunc_RightArm_ReturnValue
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:012C
+[2021.07.06-00.50.32:470][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0141
+[2021.07.06-00.50.32:470][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0156
+[2021.07.06-00.50.32:471][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:471][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:005B
+[2021.07.06-00.50.32:471][428]LogScript: Warning: Accessed None trying to read property CallFunc_LeftArm_ReturnValue
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:0087
+[2021.07.06-00.50.32:471][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:009C
+[2021.07.06-00.50.32:472][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_158.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:00B1
+[2021.07.06-00.50.32:472][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:472][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0100
+[2021.07.06-00.50.32:472][428]LogScript: Warning: Accessed None trying to read property CallFunc_RightArm_ReturnValue
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:012C
+[2021.07.06-00.50.32:472][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0141
+[2021.07.06-00.50.32:472][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0156
+[2021.07.06-00.50.32:472][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:473][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:005B
+[2021.07.06-00.50.32:473][428]LogScript: Warning: Accessed None trying to read property CallFunc_LeftArm_ReturnValue
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:0087
+[2021.07.06-00.50.32:473][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:009C
+[2021.07.06-00.50.32:473][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:00B1
+[2021.07.06-00.50.32:473][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0100
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None trying to read property CallFunc_RightArm_ReturnValue
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:012C
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0141
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0156
+[2021.07.06-00.50.32:476][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:005B
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None trying to read property CallFunc_LeftArm_ReturnValue
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:0087
+[2021.07.06-00.50.32:476][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:009C
+[2021.07.06-00.50.32:477][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_160.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:00B1
+[2021.07.06-00.50.32:477][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:477][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0100
+[2021.07.06-00.50.32:477][428]LogScript: Warning: Accessed None trying to read property CallFunc_RightArm_ReturnValue
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:012C
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0141
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None
+	BSLowPolyRightAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Right.BSLowPolyRightAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyRightAnimBP.BSLowPolyRightAnimBP_C:ExecuteUbergraph_BSLowPolyRightAnimBP:0156
+[2021.07.06-00.50.32:478][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None trying to read property BodyStateSkeleton
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:005B
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None trying to read property CallFunc_LeftArm_ReturnValue
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:0087
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:009C
+[2021.07.06-00.50.32:478][428]LogScript: Warning: Accessed None
+	BSLowPolyLeftAnimBP_C /Game/Maps/LeapTestMap1.LeapTestMap1:PersistentLevel.ChildActor_GEN_VARIABLE_BSLowPolyHand_C_CAT_156.Left.BSLowPolyLeftAnimBP_C_0
+	Function /LeapMotion/BodyState/BSLowPolyLeftAnimBP.BSLowPolyLeftAnimBP_C:ExecuteUbergraph_BSLowPolyLeftAnimBP:00B1
+[2021.07.06-00.50.32:478][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:479][428]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LeapTestMap1.LeapTestMap1
+[2021.07.06-00.50.32:479][428]Cmd: MAP LOAD FILE="../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Maps/LeapTestMap1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.07.06-00.50.32:479][428]LightingResults: New page: Lighting Build
+[2021.07.06-00.50.32:479][428]LoadErrors: New page: Loading map: LeapTestMap1.umap
+[2021.07.06-00.50.32:516][428]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.32:516][428]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.06-00.50.32:517][428]MapCheck: New page: Map Check
+[2021.07.06-00.50.32:517][428]LightingResults: New page: Lighting Build
+[2021.07.06-00.50.32:521][428]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.06-00.50.32:525][428]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.07.06-00.50.32:526][428]LogAudio: Display: Audio Device (ID: 1) registered with world 'LeapTestMap1'.
+[2021.07.06-00.50.32:529][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:530][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:530][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:531][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:535][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:535][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:537][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:538][428]LogTemp: Updating cached MappedBoneAnimData
+[2021.07.06-00.50.32:544][428]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.07.06-00.50.32:544][428]LogAIModule: Creating AISystem for world LeapTestMap1
+[2021.07.06-00.50.32:553][428]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.06-00.50.32:563][428]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.07.06-00.50.32:563][428]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,353ms to complete.
+[2021.07.06-00.50.32:563][428]LogFileHelpers: Loading map 'LeapTestMap1' took 0.085
+[2021.07.06-00.50.50:873][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.07.06-00.50.51:067][266]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.07.06-00.50.51:087][266]LogSavePackage: Moving '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Saved/LeapTestMap16D5C0F844C5D3E387633EC8FC82B4CDA.tmp' to '../../../../../../Users/HP Zbook17 G6/Documents/GitHub/GameJamLavalVirtual/LeapTestProject/Content/Maps/LeapTestMap1.umap'
+[2021.07.06-00.50.51:118][266]AssetCheck: New page: Asset Save: LeapTestMap1
+[2021.07.06-00.50.51:118][266]LogContentValidation: Display: Validating World /Game/Maps/LeapTestMap1.LeapTestMap1
+[2021.07.06-00.50.52:237][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.07.06-00.50.52:263][393]LogSlate: Window 'LeapTestProject - Unreal Editor' being destroyed
+[2021.07.06-00.50.52:265][393]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.06-00.50.52:390][394]Cmd: QUIT_EDITOR
+[2021.07.06-00.50.52:390][394]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.07.06-00.50.52:395][394]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.07.06-00.50.52:398][394]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.06-00.50.52:398][394]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.06-00.50.52:398][394]LogAudio: Display: Audio Device unregistered from world 'LeapTestMap1'.
+[2021.07.06-00.50.52:398][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.50.52:401][394]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.06-00.50.52:441][394]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.06-00.50.52:447][394]LogExit: Preparing to exit.
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A9D00] Windows
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A9B00] Default__DeviceProfile
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14E700] WindowsNoEditor
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A8D00] WindowsServer
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14F300] WindowsClient
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1AAA00] IOS
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14E200] iPadAir
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1AAD00] iPadAir2
+[2021.07.06-00.50.53:237][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB000] IPadPro
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB100] iPadAir3
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A9500] iPadAir4
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA800] iPadMini2
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1AB200] iPadMini3
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9600] iPadMini4
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A9200] iPadMini5
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E6900] iPhone6
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E6A00] iPodTouch6
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB600] iPhone7
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB700] iPodTouch7
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E6700] iPhone5S
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8100] iPhone6Plus
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E5400] iPhone6S
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8700] iPhone6SPlus
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E4200] iPhone7Plus
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA600] iPhoneSE
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7000] iPhone8
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BBF00] iPhone8Plus
+[2021.07.06-00.50.53:238][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E5C00] iPhoneX
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA300] iPhoneXS
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E4400] iPhoneXSMax
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BBC00] iPhoneXR
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7E00] iPhone11
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA000] iPhone11Pro
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7500] iPhone11ProMax
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BAC00] iPhoneSE2
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7700] iPhone12Mini
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8B00] iPhone12
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E6300] iPhone12Pro
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB400] iPhone12ProMax
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA900] iPadPro105
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14DB00] iPadPro129
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8F00] iPadPro97
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14FC00] iPadPro2_129
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB900] iPad5
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14FF00] iPad6
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BAD00] iPad7
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14E800] iPad8
+[2021.07.06-00.50.53:239][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14CC00] iPadPro11
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7D00] iPadPro2_11
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14D100] iPadPro3_129
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E4B00] iPadPro4_129
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14E500] AppleTV
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E5000] AppleTV4K
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C600] TVOS
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7F00] Mac
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C200] MacClient
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8800] MacNoEditor
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14EC00] MacServer
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8200] Linux
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14D600] LinuxAArch64
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BAA00] LinuxNoEditor
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14DC00] LinuxAArch64NoEditor
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BBE00] LinuxClient
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14CB00] LinuxAArch64Client
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BBB00] LinuxServer
+[2021.07.06-00.50.53:240][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C800] LinuxAArch64Server
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BB500] Android
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14EB00] Android_Low
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA700] Android_Mid
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14F200] Android_High
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BAF00] Android_Default
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14DA00] Android_Adreno4xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9200] Android_Adreno5xx_Low
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14CD00] Android_Adreno5xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8D00] Android_Adreno6xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C700] Android_Adreno6xx_Vulkan
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8300] Android_Mali_T6xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C500] Android_Mali_T7xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9400] Android_Mali_T8xx
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14DF00] Android_Mali_G71
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9900] Android_Mali_G72
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14C100] Android_Mali_G72_Vulkan
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BA400] Android_Mali_G76
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14DD00] Android_Mali_G76_Vulkan
+[2021.07.06-00.50.53:241][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B8A00] Android_Mali_G77
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14E300] Android_Mali_G77_Vulkan
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0BAB00] Android_Vulkan_SM5
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14CF00] Android_PowerVR_G6xxx
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9800] Android_PowerVR_GT7xxx
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14D300] Android_PowerVR_GE8xxx
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9E00] Android_PowerVR_GM9xxx
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14F900] Android_PowerVR_GM9xxx_Vulkan
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0B9000] Android_TegraK1
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC14EA00] Android_Unknown_Vulkan
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E6200] Lumin
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC1A8200] Lumin_Desktop
+[2021.07.06-00.50.53:242][394]LogDeviceProfile: Device profile begin destroy: [0000015ABC0E7300] HoloLens
+[2021.07.06-00.50.53:250][394]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:251][394]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:251][394]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:251][394]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:251][394]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:260][394]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.07.06-00.50.53:266][394]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.07.06-00.50.53:267][394]LogExit: Editor shut down
+[2021.07.06-00.50.53:268][394]LogExit: Transaction tracking system shut down
+[2021.07.06-00.50.53:413][394]LogExit: Object subsystem successfully closed.
+[2021.07.06-00.50.53:457][394]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.07.06-00.50.53:547][394]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (824)
+[2021.07.06-00.50.53:547][394]LogModuleManager: Shutting down and abandoning module SceneOutliner (822)
+[2021.07.06-00.50.53:548][394]LogModuleManager: Shutting down and abandoning module AddContentDialog (820)
+[2021.07.06-00.50.53:548][394]LogModuleManager: Shutting down and abandoning module WidgetCarousel (819)
+[2021.07.06-00.50.53:548][394]LogModuleManager: Shutting down and abandoning module EditorWidgets (816)
+[2021.07.06-00.50.53:548][394]LogModuleManager: Shutting down and abandoning module StatsViewer (814)
+[2021.07.06-00.50.53:548][394]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (812)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (810)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module AutomationWorker (808)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module SteamVREditor (806)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module OculusMR (804)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (802)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module GooglePADEditor (800)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (798)
+[2021.07.06-00.50.53:549][394]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (796)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (794)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (792)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (790)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (788)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (786)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (784)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (782)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module WebMMedia (780)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (778)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (776)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module SequenceRecorder (775)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (772)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (770)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (768)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (766)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (764)
+[2021.07.06-00.50.53:550][394]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (762)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (760)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (758)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (756)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (754)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module PlanarCut (752)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module CharacterAI (750)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module TextureAlignMode (748)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module BspMode (746)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module GeometryMode (744)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module SmartSnapping (742)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module SessionServices (740)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module MeshPaint (738)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (736)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module FoliageEdit (734)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module LandscapeEditor (732)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module MeshPaintMode (730)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (728)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module ActorPickerMode (726)
+[2021.07.06-00.50.53:551][394]LogModuleManager: Shutting down and abandoning module PlacementMode (724)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module ViewportSnapping (722)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module ViewportInteraction (720)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module ClothPainter (718)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (717)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module LogVisualizer (714)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module IntroTutorials (712)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (711)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (708)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (706)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (704)
+[2021.07.06-00.50.53:552][394]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (703)
+[2021.07.06-00.50.53:808][394]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (700)
+[2021.07.06-00.50.53:808][394]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (698)
+[2021.07.06-00.50.53:808][394]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (696)
+[2021.07.06-00.50.53:808][394]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (694)
+[2021.07.06-00.50.53:808][394]LogModuleManager: Shutting down and abandoning module TraceInsights (692)
+[2021.07.06-00.50.53:808][394]MemoryProfiler: Shutdown
+[2021.07.06-00.50.53:808][394]NetworkingProfiler: Shutdown
+[2021.07.06-00.50.53:808][394]LoadingProfiler: Shutdown
+[2021.07.06-00.50.53:808][394]TimingProfiler: Shutdown
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module TraceServices (691)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (688)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (686)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module InputBindingEditor (684)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module MergeActors (682)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (680)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module LocalizationService (679)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module HardwareTargeting (676)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (674)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module UndoHistory (672)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module XmlParser (670)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module Blutility (668)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (666)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (665)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (662)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (661)
+[2021.07.06-00.50.53:809][394]LogModuleManager: Shutting down and abandoning module SettingsEditor (658)
+[2021.07.06-00.50.53:810][394]LogModuleManager: Shutting down and abandoning module ProjectLauncher (656)
+[2021.07.06-00.50.53:810][394]LogModuleManager: Shutting down and abandoning module SessionFrontend (654)
+[2021.07.06-00.50.53:810][394]LogModuleManager: Shutting down and abandoning module ProfilerClient (652)
+[2021.07.06-00.50.53:810][394]LogModuleManager: Shutting down and abandoning module DeviceManager (650)
+[2021.07.06-00.50.53:810][394]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (649)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module AutomationController (646)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module AutomationWindow (644)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module Layers (642)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (640)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module DetailCustomizations (638)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module PackagesDialog (636)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (634)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module Persona (632)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (631)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module AnimGraph (629)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module Kismet (626)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module KismetWidgets (625)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module GraphEditor (622)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module StructViewer (620)
+[2021.07.06-00.50.53:843][394]LogModuleManager: Shutting down and abandoning module ClassViewer (618)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module Toolbox (616)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module ModuleUI (614)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module OutputLog (612)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module GammaUI (610)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module Documentation (608)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module LiveCoding (606)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module LevelSequence (604)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (602)
+[2021.07.06-00.50.53:844][394]LogModuleManager: Shutting down and abandoning module MovieScene (600)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (598)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module LauncherPlatform (596)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module AnalyticsET (594)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module PortalServices (592)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module PortalRpc (590)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module MessagingRpc (588)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (586)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module AudioMixerCore (585)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module AIModule (582)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module GameplayDebugger (581)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module AITestSuite (579)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module NavigationSystem (577)
+[2021.07.06-00.50.53:845][394]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (574)
+[2021.07.06-00.50.53:855][394]LogModuleManager: Shutting down and abandoning module ProfilerService (572)
+[2021.07.06-00.50.53:972][394]LogModuleManager: Shutting down and abandoning module TaskGraph (570)
+[2021.07.06-00.50.53:972][394]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (568)
+[2021.07.06-00.50.53:972][394]LogModuleManager: Shutting down and abandoning module LeapMotion (566)
+[2021.07.06-00.50.53:973][394]LeapMotionLog: Leap Plugin shutdown.
+[2021.07.06-00.50.53:973][394]BodyStateLog: Id: 1
+[2021.07.06-00.50.53:973][394]LogUObjectArray: Warning: Empty slot
+[2021.07.06-00.50.53:973][394]BodyStateLog: BodyState::Device Detached: Leap Motion (1)

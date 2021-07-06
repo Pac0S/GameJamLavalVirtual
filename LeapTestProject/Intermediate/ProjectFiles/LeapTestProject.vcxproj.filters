@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LeapTestProject.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{1628A741-2EC5-4A6F-B2B7-1FBA026BEDD2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeapTestProject.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LeapTestProjectEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{D94D45EE-914C-4126-8C7E-63C97B21A048}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{DBB21C40-77DF-49CE-811D-9929830FA935}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LeapMotion">
+      <UniqueIdentifier>{5A7C7783-5CE9-48E7-B58D-830B7432DED5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LeapMotion\Source">
+      <UniqueIdentifier>{153D080A-239F-44D3-AF7A-C035F2C37A53}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LeapMotion\Source\BodyState">
+      <UniqueIdentifier>{5649B331-E7BF-440C-95EF-BB8CE6B12FC9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LeapMotion\Source\BodyState\BodyState.Build.cs">
+      <Filter>Plugins\LeapMotion\Source\BodyState</Filter>
+    </None>
+    <Filter Include="Plugins\LeapMotion\Source\BodyState\Private">
+      <UniqueIdentifier>{B0B64C75-A7F1-469C-B298-4993B6547EB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\AnimNode_ModifyBodyStateMappedBones.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateAnimInstance.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateBoneComponent.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateBPLibrary.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateDevice.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateDeviceConfig.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateEstimatorComponent.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateHMDDevice.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateHMDDevice.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateHMDSnapshot.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateSelectorComponent.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateSkeletonStorage.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateSkeletonStorage.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateUtility.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\BodyStateUtility.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\FBodyState.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\FBodyState.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\FBodyStateInputDevice.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\FBodyStateInputDevice.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LeapMotion\Source\BodyState\Private\Skeleton">
+      <UniqueIdentifier>{F9D98047-325A-4D7E-98D1-C195C8DBC0EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\Skeleton\BodyStateArm.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private\Skeleton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\Skeleton\BodyStateBone.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private\Skeleton</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\BodyState\Private\Skeleton\BodyStateSkeleton.cpp">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Private\Skeleton</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LeapMotion\Source\BodyState\Public">
+      <UniqueIdentifier>{FAB46018-D797-459B-AFB0-65DC61965446}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\AnimNode_ModifyBodyStateMappedBones.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateAnimInstance.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateBoneComponent.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateBPLibrary.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateDevice.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateDeviceConfig.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateEnums.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateEstimatorComponent.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateHMDSnapshot.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateInputInterface.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\BodyStateSelectorComponent.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\IBodyState.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LeapMotion\Source\BodyState\Public\Skeleton">
+      <UniqueIdentifier>{2877C423-FDDA-457A-96BE-163FA2433F92}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\Skeleton\BodyStateArm.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public\Skeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\Skeleton\BodyStateBone.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public\Skeleton</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\BodyState\Public\Skeleton\BodyStateSkeleton.h">
+      <Filter>Plugins\LeapMotion\Source\BodyState\Public\Skeleton</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\LeapMotion\LeapMotion.uplugin">
+      <Filter>Plugins\LeapMotion</Filter>
+    </None>
+    <Filter Include="Plugins\LeapMotion\Resources">
+      <UniqueIdentifier>{99AC2A07-725C-43EE-A1DC-4B26A41C427E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LeapMotion\Resources\Icon128.png">
+      <Filter>Plugins\LeapMotion\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\LeapMotion\Resources\LeapOptions.PNG">
+      <Filter>Plugins\LeapMotion\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotion">
+      <UniqueIdentifier>{52A013B0-BD6D-4638-871D-24DEF616841C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LeapMotion\Source\LeapMotion\LeapMotion.Build.cs">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion</Filter>
+    </None>
+    <None Include="..\..\Plugins\LeapMotion\Source\LeapMotion\LeapMotion_APL.xml">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion</Filter>
+    </None>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotion\Private">
+      <UniqueIdentifier>{0BCAC1A1-0CDE-41A0-9A8D-4321DA623D17}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\FLeapMotionInputDevice.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\FLeapMotionInputDevice.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\FLeapMotionPlugin.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\FLeapMotionPlugin.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapAsync.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapAsync.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapBlueprintFunctionLibrary.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapComponent.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapImage.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapImage.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapLiveLink.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapLiveLink.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapMotionData.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapUtility.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapUtility.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapWrapper.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Private\LeapWrapper.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotion\Public">
+      <UniqueIdentifier>{84878D97-0DA4-4723-AA89-D6C9C6177187}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Public\ILeapMotionPlugin.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Public\LeapBlueprintFunctionLibrary.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Public\LeapComponent.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotion\Public\LeapMotionData.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotion\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotionEditor">
+      <UniqueIdentifier>{5D45AB78-B18F-48E5-B55B-959E2BE222D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LeapMotion\Source\LeapMotionEditor\LeapMotionEditor.Build.cs">
+      <Filter>Plugins\LeapMotion\Source\LeapMotionEditor</Filter>
+    </None>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotionEditor\Private">
+      <UniqueIdentifier>{FA53FA3B-57B1-47B6-8E0E-19629E2B8EFC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotionEditor\Private\AnimGraphNode_ModifyBodyStateMappedBones.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotionEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LeapMotion\Source\LeapMotionEditor\Private\LeapMotionEditorModule.cpp">
+      <Filter>Plugins\LeapMotion\Source\LeapMotionEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LeapMotion\Source\LeapMotionEditor\Public">
+      <UniqueIdentifier>{D6645097-3DE3-4B6A-8B59-64AD32E70758}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotionEditor\Public\AnimGraphNode_ModifyBodyStateMappedBones.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotionEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LeapMotion\Source\LeapMotionEditor\Public\LeapMotionEditorModule.h">
+      <Filter>Plugins\LeapMotion\Source\LeapMotionEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\LeapTestProject">
+      <UniqueIdentifier>{E1794626-C6F2-4F1F-9B8B-735516084838}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LeapTestProject\LeapTestProject.Build.cs">
+      <Filter>Source\LeapTestProject</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LeapTestProject\LeapTestProject.cpp">
+      <Filter>Source\LeapTestProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeapTestProject\LeapTestProject.h">
+      <Filter>Source\LeapTestProject</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LeapTestProject\LeapTestProjectGameModeBase.cpp">
+      <Filter>Source\LeapTestProject</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LeapTestProject\LeapTestProjectGameModeBase.h">
+      <Filter>Source\LeapTestProject</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
